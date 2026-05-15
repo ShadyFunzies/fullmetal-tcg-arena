@@ -1,0 +1,4 @@
+.vscode
+*.pdn
+*.csv
+output/*
