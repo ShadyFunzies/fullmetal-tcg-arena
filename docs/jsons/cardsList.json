@@ -1,0 +1,398 @@
+{
+    "STR_1": {
+        "id": "STR_1",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Go Romimimi (Tins)",
+                "type": "Boost",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Go_Romimimi_(Tins).png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Go Romimimi (Tins)",
+        "type": "Boost",
+        "cost": "2",
+        "Cost": "2",
+        "Pitch": "1"
+    },
+    "STR_2": {
+        "id": "STR_2",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Punching Gloves",
+                "type": "Equipment",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Punching_Gloves.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Punching Gloves",
+        "type": "Equipment",
+        "cost": "2",
+        "Cost": "2",
+        "Pitch": "1"
+    },
+    "STR_3": {
+        "id": "STR_3",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Plus 1 Priority",
+                "type": "Attack",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Plus_1_Priority.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Plus 1 Priority",
+        "type": "Attack",
+        "cost": "0",
+        "Cost": "0",
+        "Pitch": "1"
+    },
+    "STR_4": {
+        "id": "STR_4",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Strategic Sacrifice",
+                "type": "Attack",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Strategic_Sacrifice.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Strategic Sacrifice",
+        "type": "Attack",
+        "cost": "0",
+        "Cost": "0",
+        "Pitch": "1"
+    },
+    "STR_5": {
+        "id": "STR_5",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Calc Says it Kills",
+                "type": "Attack",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Calc_Says_it_Kills.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Calc Says it Kills",
+        "type": "Attack",
+        "cost": "2",
+        "Cost": "2",
+        "Pitch": "1"
+    },
+    "STR_6": {
+        "id": "STR_6",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yolo",
+                "type": "Attack",
+                "cost": "3",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Yolo.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Yolo",
+        "type": "Attack",
+        "cost": "3",
+        "Cost": "3",
+        "Pitch": "2"
+    },
+    "STR_7": {
+        "id": "STR_7",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Loaded Dice",
+                "type": "Equipment",
+                "cost": "3",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Loaded_Dice.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Loaded Dice",
+        "type": "Equipment",
+        "cost": "3",
+        "Cost": "3",
+        "Pitch": "1"
+    },
+    "STR_8": {
+        "id": "STR_8",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shady Tactics",
+                "type": "Boost",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Shady_Tactics.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Shady Tactics",
+        "type": "Boost",
+        "cost": "0",
+        "Cost": "0",
+        "Pitch": "2"
+    },
+    "STR_9": {
+        "id": "STR_9",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Last pick",
+                "type": "Attack",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Last_pick.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Last pick",
+        "type": "Attack",
+        "cost": "0",
+        "Cost": "0",
+        "Pitch": "2"
+    },
+    "STR_10": {
+        "id": "STR_10",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Stall",
+                "type": "Attack",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Stall.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Stall",
+        "type": "Attack",
+        "cost": "1",
+        "Cost": "1",
+        "Pitch": "2"
+    },
+    "STR_11": {
+        "id": "STR_11",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "I dare you",
+                "type": "Attack",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/I_dare_you.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "I dare you",
+        "type": "Attack",
+        "cost": "1",
+        "Cost": "1",
+        "Pitch": "3"
+    },
+    "STR_12": {
+        "id": "STR_12",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kaboom",
+                "type": "Attack",
+                "cost": "4",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Kaboom.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Kaboom",
+        "type": "Attack",
+        "cost": "4",
+        "Cost": "4",
+        "Pitch": "1"
+    },
+    "STR_13": {
+        "id": "STR_13",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "It's already over",
+                "type": "Attack",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/It's_already_over.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "It's already over",
+        "type": "Attack",
+        "cost": "2",
+        "Cost": "2",
+        "Pitch": "2"
+    },
+    "STR_14": {
+        "id": "STR_14",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Moral Support",
+                "type": "Equipment",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Moral_Support.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Moral Support",
+        "type": "Equipment",
+        "cost": "2",
+        "Cost": "2",
+        "Pitch": "1"
+    },
+    "STR_15": {
+        "id": "STR_15",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Flame in chat",
+                "type": "Boost",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Flame_in_chat.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Flame in chat",
+        "type": "Boost",
+        "cost": "0",
+        "Cost": "0",
+        "Pitch": "2"
+    },
+    "STR_16": {
+        "id": "STR_16",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hazard Stack",
+                "type": "Equipment",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Hazard_Stack.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Hazard Stack",
+        "type": "Equipment",
+        "cost": "1",
+        "Cost": "1",
+        "Pitch": "2"
+    },
+    "STR_17": {
+        "id": "STR_17",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "I'll do it again",
+                "type": "Boost",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/I'll_do_it_again.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "I'll do it again",
+        "type": "Boost",
+        "cost": "0",
+        "Cost": "0",
+        "Pitch": "1"
+    },
+    "STR_18": {
+        "id": "STR_18",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Power Up Punch",
+                "type": "Attack",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Power_Up_Punch.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Power Up Punch",
+        "type": "Attack",
+        "cost": "0",
+        "Cost": "0",
+        "Pitch": "3"
+    },
+    "STR_19": {
+        "id": "STR_19",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fake Out",
+                "type": "Attack",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Fake_Out.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Fake Out",
+        "type": "Attack",
+        "cost": "0",
+        "Cost": "0",
+        "Pitch": "2"
+    },
+    "STR_20": {
+        "id": "STR_20",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Halucinated Strength",
+                "type": "Attack",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Halucinated_Strength.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Halucinated Strength",
+        "type": "Attack",
+        "cost": "2",
+        "Cost": "2",
+        "Pitch": "2"
+    },
+    "STR_21": {
+        "id": "STR_21",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fling",
+                "type": "Attack",
+                "cost": "3",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Fling.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Fling",
+        "type": "Attack",
+        "cost": "3",
+        "Cost": "3",
+        "Pitch": "2"
+    },
+    "STR_22": {
+        "id": "STR_22",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wrong item!",
+                "type": "Boost",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Wrong_item!.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Wrong item!",
+        "type": "Boost",
+        "cost": "1",
+        "Cost": "1",
+        "Pitch": "2"
+    }
+}

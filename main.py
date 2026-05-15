@@ -1,4 +1,7 @@
 # Importing the PIL library
+import json
+import os
+
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
@@ -13,6 +16,12 @@ pitch_color = (0,0,255)
 atk_color = (255,0,0)
 def_color = (0,255,0)
 
+set_id = input("Set ID: ")
+starting_id = input("Starting ID: ")
+
+card_dict : dict = {}
+
+current_card_id = int(starting_id)
 with open('cards.csv') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
     for row in spamreader:
@@ -33,10 +42,10 @@ with open('cards.csv') as csvfile:
 
         effect_words = effect.split(" ")
         effect = ""
-        i=1
+        word_counter=1
         for word in effect_words:
-            effect += word + ('\n' if i%6 == 0 else ' ')
-            i+=1
+            effect += word + ('\n' if word_counter%6 == 0 else ' ')
+            word_counter+=1
 
         # Add Name to card
         I1.text((144, 30), card_name,font=font, fill=text_color),
@@ -60,6 +69,32 @@ with open('cards.csv') as csvfile:
         I1.multiline_text((45, 465), effect, font=font, fill=text_color)
 
         #img.show()
-        
+        card_img_name = card_name.replace(' ','_') + ".png"
+
         # Save the edited image
-        img.save(f"output/cards/{card_name.replace(' ','_')}.png")
+        img.save(f"output/cards/{card_img_name}")
+
+        full_id = f"{set_id}_{current_card_id}"
+        card_dict[full_id] = {
+            "id" : full_id,
+            "isToken" : False,
+            "face" : {
+                "front" : {
+                    "name" : card_name,
+                    "type" : card_type,
+                    "cost" : cost,
+                    "image": f"https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/{card_img_name}",
+                    "IsHorizontal" : False
+                }
+            },
+            "name" : card_name,
+            "type" : card_type,
+            "cost" : cost,
+            "Cost" : cost,
+            "Pitch" : pitch
+        }
+
+        current_card_id+=1
+
+with open("output/jsons/cardsList.json","w") as file:
+    json.dump(card_dict,file,indent=4)
