@@ -25,7 +25,7 @@
     ]
   },
   "gameplay": {
-    "Gameplay1": {
+    "Standard": {
       "mulligan": {
         "info": "No Mulligan",
         "startingHandSize": "4",
