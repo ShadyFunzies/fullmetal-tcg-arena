@@ -40,9 +40,10 @@
         "info": "No Mulligan",
         "startingHandSize": "4",
         "drawNewHand": false,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false,
-        "triggeredByButton": true
+        "mulliganCount": {
+          "min": 0,
+          "max": 0
+        }
       },
       "newTurn": {
         "drawOnStart": false,
