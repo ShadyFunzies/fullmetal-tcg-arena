@@ -25,7 +25,7 @@
     ],
     "deckRulesets": {
       "Standard": {
-        "checkCardLegality": false,
+        "checkCardLegality": true,
         "general": {
           "min": 24,
           "max": 24,
@@ -41,7 +41,8 @@
         "startingHandSize": "4",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "drawNewSelectedCards": false,
+        "triggeredByButton": true
       },
       "newTurn": {
         "drawOnStart": false,
