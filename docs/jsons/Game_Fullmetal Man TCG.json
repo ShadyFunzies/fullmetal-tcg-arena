@@ -1,0 +1,163 @@
+{
+  "name": "Fullmetal Man TCG",
+  "menuBackgroundImage": "https://static.wikia.nocookie.net/fullmetal-alchemist-database/images/f/f6/AlphonseElricEp7.png/revision/latest/scale-to-width-down/1200?cb=20121007031424",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "We'll see this later",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://shadyfunzies.github.io/fullmetal-tcg-arena/jsons/cardsList.json",
+    "cardBack": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/CardBack.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Cost",
+      "Pitch"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "0fecb43f-c674-4171-a24e-5be9bdda145c": {
+      "mulligan": {
+        "info": "No Mulligan",
+        "startingHandSize": "4",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Equipment",
+          "Combat",
+          "Discard",
+          "Deck"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Combat",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Equipment",
+                  "style": false
+                },
+                {
+                  "section": "Deck",
+                  "style": {
+                    "width": 120
+                  }
+                },
+                {
+                  "section": "Discard",
+                  "style": {
+                    "width": 120
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Deck"
+        ],
+        "autoPlayFromHand": {
+          "Equipment": "Equipment",
+          "Attack": "Combat"
+        },
+        "autoPlayFromStack": {
+          "Equipment": "Equipment",
+          "Attack": "Combat",
+          "Boost": "Discard"
+        },
+        "sectionsDict": {
+          "Equipment": {
+            "title": "Equipment",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Equipment",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Combat": {
+            "title": "Combat",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "title": "Decl",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
