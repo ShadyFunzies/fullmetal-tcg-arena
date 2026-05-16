@@ -204,7 +204,7 @@
           "Equipment": {
             "title": "Equipment",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -220,7 +220,7 @@
           "Combat": {
             "title": "Combat",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
