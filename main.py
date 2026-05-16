@@ -90,7 +90,6 @@ with open('cards.csv') as csvfile:
             "name" : card_name,
             "type" : card_type,
             "cost" : cost,
-            "Cost" : cost,
             "Pitch" : pitch
         }
 
