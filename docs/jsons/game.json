@@ -9,7 +9,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://shadyfunzies.github.io/fullmetal-tcg-arena/jsons/cardsList.json",
-    "cardBack": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/CardBack.png"
+    "cardBack": "https://shadyfunzies.github.io/fullmetal-tcg-arena/assets/CardBack.png"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -20,6 +20,7 @@
       {
         "title": "Standard",
         "gameplay": "Standard",
+        "deckRuleset" : "Standard",
         "customCategories": []
       }
     ],
@@ -161,7 +162,15 @@
             "enterTapped": false,
             "enterSpun": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                  "destination": "Deck",
+                  "position": "BOTTOM"
+              },
+              "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/assets/Pitch.png"
+            }
           },
           "Exile": {
             "isDefaultSection": true,
