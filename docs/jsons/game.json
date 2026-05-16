@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://static.wikia.nocookie.net/fullmetal-alchemist-database/images/f/f6/AlphonseElricEp7.png/revision/latest/scale-to-width-down/1200?cb=20121007031424",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": ""
+    "decksUrl": "https://shadyfunzies.github.io/fullmetal-tcg-arena/jsons/decks.json"
   },
   "customHelp": "We'll see this later",
   "cardRotation": "90",
