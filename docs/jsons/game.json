@@ -13,8 +13,8 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "Cost",
-      "Pitch"
+      "name",
+      "type"
     ],
     "formats": [
       {
