@@ -29,7 +29,7 @@
       "mulligan": {
         "info": "No Mulligan",
         "startingHandSize": "4",
-        "drawNewHand": true,
+        "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
@@ -42,7 +42,7 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        0
+        "20"
       ],
       "hideFacedDownCards": true,
       "sections": {
@@ -64,7 +64,7 @@
               "content": [
                 {
                   "section": "Equipment",
-                  "style": false
+                  "style": ""
                 }
               ],
               "isSymetricalForOpponents": false
