@@ -1,82 +1,10 @@
 [
 {
-    "title": "Swarm/Aggro",
-    "id": "4adbc2eb-3002-4d77-a539-b0dd15e4056d",
-    "cardCount": 24,
-    "createdAt": "2026-05-16T00:50:32.478Z",
-    "lastModifiedAt": "2026-05-16T00:56:01.670Z",
-    "game": "Fullmetal Man TCG",
-    "format": [
-        "Standard"
-    ],
-    "deckList": {
-        "categoriesOrder": [
-        "Attack",
-        "Equipment",
-        "Boost"
-        ],
-        "Attack": [
-        {
-            "count": 2,
-            "id": "STR_3"
-        },
-        {
-            "count": 2,
-            "id": "STR_18"
-        },
-        {
-            "count": 2,
-            "id": "STR_20"
-        },
-        {
-            "count": 2,
-            "id": "STR_4"
-        },
-        {
-            "count": 2,
-            "id": "STR_5"
-        },
-        {
-            "count": 2,
-            "id": "STR_19"
-        },
-        {
-            "count": 2,
-            "id": "STR_11"
-        },
-        {
-            "count": 2,
-            "id": "STR_13"
-        }
-        ],
-        "Equipment": [
-        {
-            "count": 2,
-            "id": "STR_7"
-        },
-        {
-            "count": 2,
-            "id": "STR_2"
-        }
-        ],
-        "Boost": [
-        {
-            "count": 2,
-            "id": "STR_17"
-        },
-        {
-            "count": 2,
-            "id": "STR_15"
-        }
-        ]
-    }
-},
-{
   "title": "Control/Discard",
-  "id": "b54d3c3a-3daf-4471-bb7d-7a7deb7d6757",
+  "id": "5dc9b286-c02d-42d9-b217-55e2f41d015a",
   "cardCount": 24,
-  "createdAt": "2026-05-16T00:56:06.765Z",
-  "lastModifiedAt": "2026-05-16T00:58:00.813Z",
+  "createdAt": "2026-05-16T17:51:30.860Z",
+  "lastModifiedAt": "2026-05-16T17:52:28.591Z",
   "game": "Fullmetal Man TCG",
   "format": [
     "Standard"
@@ -129,16 +57,92 @@
       {
         "count": 2,
         "id": "STR_21"
-      },
-      {
-        "count": 2,
-        "id": "STR_12"
       }
     ],
     "Equipment": [
       {
         "count": 2,
         "id": "STR_14"
+      },
+      {
+        "count": 2,
+        "id": "STR_25"
+      }
+    ]
+  }
+},
+{
+  "title": "Aggro/Beatdown",
+  "id": "b21b2f9a-ef9a-48bf-a0a9-b63ae3ddbe1b",
+  "cardCount": 24,
+  "createdAt": "2026-05-16T17:47:33.143Z",
+  "lastModifiedAt": "2026-05-16T17:49:58.451Z",
+  "game": "Fullmetal Man TCG",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Attack",
+      "Equipment",
+      "Boost"
+    ],
+    "Attack": [
+      {
+        "count": 2,
+        "id": "STR_3"
+      },
+      {
+        "count": 2,
+        "id": "STR_5"
+      },
+      {
+        "count": 2,
+        "id": "STR_11"
+      },
+      {
+        "count": 2,
+        "id": "STR_20"
+      },
+      {
+        "count": 2,
+        "id": "STR_19"
+      },
+      {
+        "count": 2,
+        "id": "STR_18"
+      },
+      {
+        "count": 2,
+        "id": "STR_23"
+      },
+      {
+        "count": 2,
+        "id": "STR_21"
+      }
+    ],
+    "Equipment": [
+      {
+        "count": 2,
+        "id": "STR_2"
+      },
+      {
+        "count": 1,
+        "id": "STR_7"
+      },
+      {
+        "count": 1,
+        "id": "STR_16"
+      }
+    ],
+    "Boost": [
+      {
+        "count": 2,
+        "id": "STR_15"
+      },
+      {
+        "count": 2,
+        "id": "STR_17"
       }
     ]
   }

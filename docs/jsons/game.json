@@ -22,7 +22,17 @@
         "gameplay": "Standard",
         "customCategories": []
       }
-    ]
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "checkCardLegality": false,
+        "general": {
+          "min": 24,
+          "max": 24,
+          "maxPerCard": 2
+        }
+      }
+    }
   },
   "gameplay": {
     "Standard": {
