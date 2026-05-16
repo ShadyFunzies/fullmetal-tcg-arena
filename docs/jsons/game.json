@@ -42,7 +42,8 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "20"
+        20,
+        0
       ],
       "hideFacedDownCards": true,
       "sections": {
