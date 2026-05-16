@@ -48,9 +48,7 @@
       "sections": {
         "customSections": [
           "Equipment",
-          "Combat",
-          "Discard",
-          "Deck"
+          "Combat"
         ],
         "layout": {
           "direction": "column",
@@ -73,9 +71,6 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [
-          "Deck"
-        ],
         "autoPlayFromHand": {
           "Equipment": "Equipment",
           "Attack": "Combat"
