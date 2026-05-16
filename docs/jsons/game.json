@@ -16,10 +16,16 @@
       "Cost",
       "Pitch"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "STND",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
-    "0fecb43f-c674-4171-a24e-5be9bdda145c": {
+    "Gameplay1": {
       "mulligan": {
         "info": "No Mulligan",
         "startingHandSize": "4",
