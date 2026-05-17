@@ -1,0 +1,237 @@
+{
+  "name": "Fullmetal Man TCG",
+  "menuBackgroundImage": "https://static.wikia.nocookie.net/fullmetal-alchemist-database/images/f/f6/AlphonseElricEp7.png/revision/latest/scale-to-width-down/1200?cb=20121007031424",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": "https://shadyfunzies.github.io/fullmetal-tcg-arena/jsons/decks.json"
+  },
+  "customHelp": "We'll see this later",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://shadyfunzies.github.io/fullmetal-tcg-arena/jsons/cardsList.json",
+    "cardBack": "https://shadyfunzies.github.io/fullmetal-tcg-arena/assets/CardBack.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard",
+        "deckRuleset" : "Standard",
+        "customCategories": []
+      }
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "checkCardLegality": true,
+        "general": {
+          "min": 24,
+          "max": 24,
+          "maxPerCard": 2
+        }
+      }
+    }
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "No Mulligan",
+        "startingHandSize": "4",
+        "drawNewHand": false,
+        "mulliganCount": {
+          "min": 0,
+          "max": 0
+        }
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 0
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        20,
+        0
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Equipment",
+          "Combat"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Combat",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Equipment",
+                  "style": ""
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "autoPlayFromHand": {
+          "Equipment": "Equipment",
+          "Attack": "Combat"
+        },
+        "autoPlayFromStack": {
+          "Equipment": "Equipment",
+          "Attack": "Combat",
+          "Boost": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Trash",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Equipment": {
+            "title": "Equipment",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Equipment",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Combat": {
+            "title": "Combat",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
