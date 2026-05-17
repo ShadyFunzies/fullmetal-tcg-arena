@@ -423,5 +423,22 @@
         "type": "Equipment",
         "cost": "1",
         "Pitch": "2"
+    },
+    "STR_26": {
+        "id": "STR_26",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Clangorous Soul",
+                "type": "Boost",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Clangorous_Soul.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Clangorous Soul",
+        "type": "Boost",
+        "cost": "2",
+        "Pitch": "2"
     }
 }
