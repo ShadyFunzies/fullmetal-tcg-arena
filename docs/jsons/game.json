@@ -111,7 +111,15 @@
             "enterTapped": false,
             "enterSpun": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                  "destination": "Deck",
+                  "position": "BOTTOM"
+              },
+              "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/assets/Pitch.png"
+            }
           },
           "Discard": {
             "isDefaultSection": true,
