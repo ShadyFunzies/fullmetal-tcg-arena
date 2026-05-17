@@ -440,5 +440,39 @@
         "type": "Boost",
         "cost": "2",
         "Pitch": "2"
+    },
+    "STR_27": {
+        "id": "STR_27",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Explosion",
+                "type": "Attack",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Explosion.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Explosion",
+        "type": "Attack",
+        "cost": "0",
+        "Pitch": "3"
+    },
+    "STR_28": {
+        "id": "STR_28",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "We Playing Balatro",
+                "type": "Equipment",
+                "cost": "3",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/We_Playing_Balatro.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "We Playing Balatro",
+        "type": "Equipment",
+        "cost": "3",
+        "Pitch": ""
     }
 }
