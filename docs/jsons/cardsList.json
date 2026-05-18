@@ -473,6 +473,108 @@
         "name": "We Playing Balatro",
         "type": "Equipment",
         "cost": "3",
-        "Pitch": ""
+        "Pitch": "1"
+    },
+    "STR_29": {
+        "id": "STR_29",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Revenge",
+                "type": "Attack",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Revenge.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Revenge",
+        "type": "Attack",
+        "cost": "2",
+        "Pitch": "2"
+    },
+    "STR_30": {
+        "id": "STR_30",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Prepare for trouble",
+                "type": "Equipment",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Prepare_for_trouble.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Prepare for trouble",
+        "type": "Equipment",
+        "cost": "2",
+        "Pitch": "1"
+    },
+    "STR_31": {
+        "id": "STR_31",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Make It Rain",
+                "type": "Attack",
+                "cost": "3",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Make_It_Rain.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Make It Rain",
+        "type": "Attack",
+        "cost": "3",
+        "Pitch": "1"
+    },
+    "STR_32": {
+        "id": "STR_32",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Switcheroo",
+                "type": "Boost",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Switcheroo.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Switcheroo",
+        "type": "Boost",
+        "cost": "0",
+        "Pitch": "3"
+    },
+    "STR_33": {
+        "id": "STR_33",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Interest Gains",
+                "type": "Boost",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Interest_Gains.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Interest Gains",
+        "type": "Boost",
+        "cost": "0",
+        "Pitch": "1"
+    },
+    "STR_34": {
+        "id": "STR_34",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sunday Scheduling",
+                "type": "Equipment",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Sunday_Scheduling.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Sunday Scheduling",
+        "type": "Equipment",
+        "cost": "2",
+        "Pitch": "2"
     }
 }
