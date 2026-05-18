@@ -576,5 +576,277 @@
         "type": "Equipment",
         "cost": "2",
         "Pitch": "2"
+    },
+    "STR_35": {
+        "id": "STR_35",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Teemo",
+                "type": "Equipment",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Teemo.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Teemo",
+        "type": "Equipment",
+        "cost": "1",
+        "Pitch": "2"
+    },
+    "STR_36": {
+        "id": "STR_36",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Knock off",
+                "type": "Attack",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Knock_off.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Knock off",
+        "type": "Attack",
+        "cost": "1",
+        "Pitch": "1"
+    },
+    "STR_37": {
+        "id": "STR_37",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Reflect",
+                "type": "Boost",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Reflect.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Reflect",
+        "type": "Boost",
+        "cost": "0",
+        "Pitch": "2"
+    },
+    "STR_38": {
+        "id": "STR_38",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Revival Blessing",
+                "type": "Boost",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Revival_Blessing.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Revival Blessing",
+        "type": "Boost",
+        "cost": "0",
+        "Pitch": "2"
+    },
+    "STR_39": {
+        "id": "STR_39",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sheer Force",
+                "type": "Attack",
+                "cost": "4",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Sheer_Force.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Sheer Force",
+        "type": "Attack",
+        "cost": "4",
+        "Pitch": "1"
+    },
+    "STR_40": {
+        "id": "STR_40",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Common Sacrifice",
+                "type": "Boost",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Common_Sacrifice.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Common Sacrifice",
+        "type": "Boost",
+        "cost": "0",
+        "Pitch": "2"
+    },
+    "STR_41": {
+        "id": "STR_41",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "One mans trash",
+                "type": "Equipment",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/One_mans_trash.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "One mans trash",
+        "type": "Equipment",
+        "cost": "1",
+        "Pitch": "1"
+    },
+    "STR_42": {
+        "id": "STR_42",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Heart of the cards",
+                "type": "Equipment",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Heart_of_the_cards.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Heart of the cards",
+        "type": "Equipment",
+        "cost": "1",
+        "Pitch": "2"
+    },
+    "STR_43": {
+        "id": "STR_43",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Armed and Ready",
+                "type": "Attack",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Armed_and_Ready.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Armed and Ready",
+        "type": "Attack",
+        "cost": "1",
+        "Pitch": "2"
+    },
+    "STR_44": {
+        "id": "STR_44",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Stomping Tantrum",
+                "type": "Attack",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Stomping_Tantrum.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Stomping Tantrum",
+        "type": "Attack",
+        "cost": "2",
+        "Pitch": "2"
+    },
+    "STR_45": {
+        "id": "STR_45",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "STAB",
+                "type": "Equipment",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/STAB.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "STAB",
+        "type": "Equipment",
+        "cost": "2",
+        "Pitch": "3"
+    },
+    "STR_46": {
+        "id": "STR_46",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Piggy Bank",
+                "type": "Equipment",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Piggy_Bank.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Piggy Bank",
+        "type": "Equipment",
+        "cost": "2",
+        "Pitch": "2"
+    },
+    "STR_47": {
+        "id": "STR_47",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Close Combat",
+                "type": "Attack",
+                "cost": "5",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Close_Combat.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Close Combat",
+        "type": "Attack",
+        "cost": "5",
+        "Pitch": "2"
+    },
+    "STR_48": {
+        "id": "STR_48",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lock In",
+                "type": "Boost",
+                "cost": "1",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Lock_In.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Lock In",
+        "type": "Boost",
+        "cost": "1",
+        "Pitch": "2"
+    },
+    "STR_49": {
+        "id": "STR_49",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Recursion Punch",
+                "type": "Attack",
+                "cost": "0",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Recursion_Punch.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Recursion Punch",
+        "type": "Attack",
+        "cost": "0",
+        "Pitch": "2"
+    },
+    "STR_50": {
+        "id": "STR_50",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Project Deadline",
+                "type": "Attack",
+                "cost": "2",
+                "image": "https://shadyfunzies.github.io/fullmetal-tcg-arena/cards/Project_Deadline.png",
+                "IsHorizontal": false
+            }
+        },
+        "name": "Project Deadline",
+        "type": "Attack",
+        "cost": "2",
+        "Pitch": "1"
     }
 }
