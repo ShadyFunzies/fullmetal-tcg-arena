@@ -1,0 +1,263 @@
+[
+    {
+  "title": "Scouts",
+  "id": "2488f0fc-8a3f-4102-ab11-2cf35836c579",
+  "cardCount": 20,
+  "createdAt": "2026-08-10T23:04:59.342Z",
+  "lastModifiedAt": "2026-08-10T23:06:03.991Z",
+  "game": "MTG Custom Jumpstart",
+  "format": [
+    "Jumpstart"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Creature",
+      "Enchantment",
+      "Artifact",
+      "Instant",
+      "Land"
+    ],
+    "Creature": [
+      {
+        "count": 1,
+        "id": "58bf08d9-879b-46a3-ad34-818c66d55f0a"
+      },
+      {
+        "count": 1,
+        "id": "2d3ea3c5-34fa-4cc6-8802-0f973331720d"
+      },
+      {
+        "count": 1,
+        "id": "a40e7be4-73d1-4a9d-a722-8628a7afa74f"
+      },
+      {
+        "count": 1,
+        "id": "912d60a8-f168-4258-9265-676e475065cb"
+      },
+      {
+        "count": 1,
+        "id": "5e5def0f-e9bf-479a-83e2-44bcc228827f"
+      },
+      {
+        "count": 1,
+        "id": "a5c8d5cd-3f8d-4f90-8408-59acd2c9c0a4"
+      },
+      {
+        "count": 1,
+        "id": "eec6389b-1927-4146-ba64-0378fcfa1f86"
+      }
+    ],
+    "Enchantment": [
+      {
+        "count": 1,
+        "id": "24508a13-2d59-47e4-a56a-5d8f0c9d5d85"
+      },
+      {
+        "count": 1,
+        "id": "098ee3ee-6650-4f82-a25d-b9861ead6bd9"
+      }
+    ],
+    "Artifact": [
+      {
+        "count": 1,
+        "id": "5ada4ec2-431a-49ce-8ad9-e195c90b758a"
+      }
+    ],
+    "Instant": [
+      {
+        "count": 1,
+        "id": "3e5c890a-a058-41fa-a65d-93777aacf8b1"
+      },
+      {
+        "count": 1,
+        "id": "ecce25af-0bf4-4856-8630-b66edc96f964"
+      }
+    ],
+    "Land": [
+      {
+        "count": 1,
+        "id": "c36a5271-059f-44c1-bae5-cf4a6fd3d8fa"
+      },
+      {
+        "count": 7,
+        "id": "debf9799-7821-433b-a99e-7161854ee18b"
+      }
+    ]
+  }
+},
+  {
+  "title": "Flood",
+  "id": "a2efcbb2-8697-45e0-82d7-a046a4a7973a",
+  "cardCount": 20,
+  "createdAt": "2026-08-10T23:04:18.859Z",
+  "lastModifiedAt": "2026-08-10T23:04:39.786Z",
+  "game": "MTG Custom Jumpstart",
+  "format": [
+    "Jumpstart"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Creature",
+      "Enchantment",
+      "Instant",
+      "Artifact",
+      "Sorcery",
+      "Land"
+    ],
+    "Creature": [
+      {
+        "count": 1,
+        "id": "ba98ba72-e818-4d89-b701-ee69d7fe9559"
+      },
+      {
+        "count": 1,
+        "id": "aa5b25b9-a705-4129-959c-39978b4c252c"
+      },
+      {
+        "count": 1,
+        "id": "800b4564-eef5-421a-909d-f42e4cb239da"
+      },
+      {
+        "count": 1,
+        "id": "ac48720b-2300-4de6-8759-eeb8658e42f9"
+      },
+      {
+        "count": 1,
+        "id": "a9e439de-5e5c-4e60-a4a8-7e37fcd6e624"
+      },
+      {
+        "count": 1,
+        "id": "9dc50128-4b47-4410-a9bc-f6eb71fc5d14"
+      }
+    ],
+    "Enchantment": [
+      {
+        "count": 1,
+        "id": "f70383fd-5fcc-4c19-a11b-985f32ff9280"
+      }
+    ],
+    "Instant": [
+      {
+        "count": 1,
+        "id": "1288b1d9-6011-44f2-b4f9-53c6c7057f04"
+      },
+      {
+        "count": 1,
+        "id": "ce71ba04-1eab-4db5-9a8b-ee1c1e4c56bc"
+      },
+      {
+        "count": 1,
+        "id": "9788b59c-bbb8-42ef-a3e3-04c822ace886"
+      }
+    ],
+    "Artifact": [
+      {
+        "count": 1,
+        "id": "fcf76e7a-e121-4b50-b08e-30100f3c5624"
+      }
+    ],
+    "Sorcery": [
+      {
+        "count": 1,
+        "id": "8336cc6d-8a4b-4110-92d4-aa349d94987b"
+      }
+    ],
+    "Land": [
+      {
+        "count": 7,
+        "id": "e1a302ad-136c-4dd6-9206-8282335b455f"
+      },
+      {
+        "count": 1,
+        "id": "8e854c11-795d-4cb5-8932-3d75bf81ef00"
+      }
+    ]
+  }
+},
+{
+  "title": "Explorers",
+  "id": "f2c0baa7-affe-4543-ac5f-0a5190e0e4fb",
+  "cardCount": 20,
+  "createdAt": "2026-08-10T23:03:10.678Z",
+  "lastModifiedAt": "2026-08-10T23:04:05.465Z",
+  "game": "MTG Custom Jumpstart",
+  "format": [
+    "Jumpstart"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Creature",
+      "Enchantment",
+      "Sorcery",
+      "Artifact",
+      "Land"
+    ],
+    "Creature": [
+      {
+        "count": 1,
+        "id": "52ce62ca-b3a7-4f8c-ac9c-12bce8869a41"
+      },
+      {
+        "count": 1,
+        "id": "2943442c-d29e-4a66-ab6d-e6348f68e1eb"
+      },
+      {
+        "count": 1,
+        "id": "d1a97f53-f02b-4ff3-8de7-062d5947d256"
+      },
+      {
+        "count": 1,
+        "id": "31e64429-b1df-4fb0-a2da-3f2e2dfaa8e9"
+      },
+      {
+        "count": 1,
+        "id": "304e1dd8-6bf9-4401-ba4a-d19634a12d11"
+      },
+      {
+        "count": 1,
+        "id": "eec6389b-1927-4146-ba64-0378fcfa1f86"
+      }
+    ],
+    "Enchantment": [
+      {
+        "count": 1,
+        "id": "e1f0ca15-e92c-416d-a9bc-f8c47cc9e47c"
+      }
+    ],
+    "Sorcery": [
+      {
+        "count": 1,
+        "id": "96125080-ced5-4e5a-8f66-9101675f391e"
+      },
+      {
+        "count": 1,
+        "id": "d094120c-932a-488b-96fd-03473c006aec"
+      },
+      {
+        "count": 1,
+        "id": "d2195321-a01e-4df2-a787-d28ae7e6e9c9"
+      }
+    ],
+    "Artifact": [
+      {
+        "count": 1,
+        "id": "fbce9962-356d-4213-81db-cb0c37770fdc"
+      },
+      {
+        "count": 1,
+        "id": "99849fd1-3ab0-4cb4-bde8-4392e3e215b8"
+      }
+    ],
+    "Land": [
+      {
+        "count": 1,
+        "id": "c195a7e7-017b-480c-8b67-0631e60a0416"
+      },
+      {
+        "count": 7,
+        "id": "d8bb2317-33ce-46f1-8aad-67c1269149f8"
+      }
+    ]
+  }
+}
+]
