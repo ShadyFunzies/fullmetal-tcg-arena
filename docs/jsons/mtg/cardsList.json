@@ -1,2190 +1,2198 @@
 {
-    "99849fd1-3ab0-4cb4-bde8-4392e3e215b8": {
-        "id": "99849fd1-3ab0-4cb4-bde8-4392e3e215b8",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Expedition's Atlas",
-                "type": "Artifact",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538439.jpg?t=2026-08-10-15:36:44",
-                "isHorizontal": false
-            }
-        },
+  "99849fd1-3ab0-4cb4-bde8-4392e3e215b8": {
+    "id": "99849fd1-3ab0-4cb4-bde8-4392e3e215b8",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Expedition's Atlas",
         "type": "Artifact",
         "cost": 3,
-        "Colors": [],
-        "Card type": "Artifact \u2014 Map",
-        "Color identity": [],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538439.jpg?t=2026-08-10-15:36:44",
+        "isHorizontal": false
+      }
     },
-    "52ce62ca-b3a7-4f8c-ac9c-12bce8869a41": {
-        "id": "52ce62ca-b3a7-4f8c-ac9c-12bce8869a41",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Roaming Woodhippo",
-                "type": "Creature",
-                "cost": 5,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538422.jpg?t=2026-08-10-15:36:06",
-                "isHorizontal": false
-            }
-        },
+    "name": "Expedition's Atlas",
+    "type": "Artifact",
+    "cost": 3,
+    "Colors": [],
+    "Card type": "Artifact — Map",
+    "Color identity": [],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "52ce62ca-b3a7-4f8c-ac9c-12bce8869a41": {
+    "id": "52ce62ca-b3a7-4f8c-ac9c-12bce8869a41",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Roaming Woodhippo",
         "type": "Creature",
         "cost": 5,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Creature \u2014 Beast Mount",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538422.jpg?t=2026-08-10-15:36:06",
+        "isHorizontal": false
+      }
     },
-    "e1f0ca15-e92c-416d-a9bc-f8c47cc9e47c": {
-        "id": "e1f0ca15-e92c-416d-a9bc-f8c47cc9e47c",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Expedition to the Forest Ruins",
-                "type": "Enchantment",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538392.jpg?t=2026-08-10-15:16:45",
-                "isHorizontal": false
-            }
-        },
+    "name": "Roaming Woodhippo",
+    "type": "Creature",
+    "cost": 5,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Creature — Beast Mount",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "e1f0ca15-e92c-416d-a9bc-f8c47cc9e47c": {
+    "id": "e1f0ca15-e92c-416d-a9bc-f8c47cc9e47c",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Expedition to the Forest Ruins",
         "type": "Enchantment",
         "cost": 3,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Enchantment \u2014 Saga",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538392.jpg?t=2026-08-10-15:16:45",
+        "isHorizontal": false
+      }
     },
-    "c195a7e7-017b-480c-8b67-0631e60a0416": {
-        "id": "c195a7e7-017b-480c-8b67-0631e60a0416",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Thriving Grove",
-                "type": "Land",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538451.jpg?t=2026-08-10-15:14:23",
-                "isHorizontal": false
-            }
-        },
+    "name": "Expedition to the Forest Ruins",
+    "type": "Enchantment",
+    "cost": 3,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Enchantment — Saga",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "c195a7e7-017b-480c-8b67-0631e60a0416": {
+    "id": "c195a7e7-017b-480c-8b67-0631e60a0416",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Thriving Grove",
         "type": "Land",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Land",
-        "Color identity": [],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538451.jpg?t=2026-08-10-15:14:23",
+        "isHorizontal": false
+      }
     },
-    "d8bb2317-33ce-46f1-8aad-67c1269149f8": {
-        "id": "d8bb2317-33ce-46f1-8aad-67c1269149f8",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Forest",
-                "type": "Land",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538448.jpg?t=2026-08-10-15:09:10",
-                "isHorizontal": false
-            }
-        },
+    "name": "Thriving Grove",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Land",
+    "Color identity": [],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "d8bb2317-33ce-46f1-8aad-67c1269149f8": {
+    "id": "d8bb2317-33ce-46f1-8aad-67c1269149f8",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Forest",
         "type": "Land",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Land \u2014 Forest",
-        "Color identity": [],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538448.jpg?t=2026-08-10-15:09:10",
+        "isHorizontal": false
+      }
     },
-    "96125080-ced5-4e5a-8f66-9101675f391e": {
-        "id": "96125080-ced5-4e5a-8f66-9101675f391e",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Claim of the Horde",
-                "type": "Sorcery",
-                "cost": 5,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538446.jpg?t=2026-08-10-15:01:02",
-                "isHorizontal": false
-            }
-        },
+    "name": "Forest",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Land — Forest",
+    "Color identity": [],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "96125080-ced5-4e5a-8f66-9101675f391e": {
+    "id": "96125080-ced5-4e5a-8f66-9101675f391e",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Claim of the Horde",
         "type": "Sorcery",
         "cost": 5,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Sorcery",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538446.jpg?t=2026-08-10-15:01:02",
+        "isHorizontal": false
+      }
     },
-    "d094120c-932a-488b-96fd-03473c006aec": {
-        "id": "d094120c-932a-488b-96fd-03473c006aec",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Destructive Conflict",
-                "type": "Sorcery",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538436.jpg?t=2026-08-10-14:42:57",
-                "isHorizontal": false
-            }
-        },
+    "name": "Claim of the Horde",
+    "type": "Sorcery",
+    "cost": 5,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Sorcery",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "d094120c-932a-488b-96fd-03473c006aec": {
+    "id": "d094120c-932a-488b-96fd-03473c006aec",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Destructive Conflict",
         "type": "Sorcery",
         "cost": 2,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Sorcery",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538436.jpg?t=2026-08-10-14:42:57",
+        "isHorizontal": false
+      }
     },
-    "d2195321-a01e-4df2-a787-d28ae7e6e9c9": {
-        "id": "d2195321-a01e-4df2-a787-d28ae7e6e9c9",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Dig for Bones",
-                "type": "Sorcery",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538442.jpg?t=2026-08-10-14:40:34",
-                "isHorizontal": false
-            }
-        },
+    "name": "Destructive Conflict",
+    "type": "Sorcery",
+    "cost": 2,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Sorcery",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "d2195321-a01e-4df2-a787-d28ae7e6e9c9": {
+    "id": "d2195321-a01e-4df2-a787-d28ae7e6e9c9",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Dig for Bones",
         "type": "Sorcery",
         "cost": 2,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Sorcery",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538442.jpg?t=2026-08-10-14:40:34",
+        "isHorizontal": false
+      }
     },
-    "31e64429-b1df-4fb0-a2da-3f2e2dfaa8e9": {
-        "id": "31e64429-b1df-4fb0-a2da-3f2e2dfaa8e9",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Moss-Struck Cobra",
-                "type": "Creature",
-                "cost": 6,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538434.jpg?t=2026-08-10-13:56:59",
-                "isHorizontal": false
-            }
-        },
+    "name": "Dig for Bones",
+    "type": "Sorcery",
+    "cost": 2,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Sorcery",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "31e64429-b1df-4fb0-a2da-3f2e2dfaa8e9": {
+    "id": "31e64429-b1df-4fb0-a2da-3f2e2dfaa8e9",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Moss-Struck Cobra",
         "type": "Creature",
         "cost": 6,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Creature \u2014 Elemental Snake",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538434.jpg?t=2026-08-10-13:56:59",
+        "isHorizontal": false
+      }
     },
-    "d1a97f53-f02b-4ff3-8de7-062d5947d256": {
-        "id": "d1a97f53-f02b-4ff3-8de7-062d5947d256",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Meticulous Trapper",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538419.jpg?t=2026-08-10-13:21:08",
-                "isHorizontal": false
-            }
-        },
+    "name": "Moss-Struck Cobra",
+    "type": "Creature",
+    "cost": 6,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Creature — Elemental Snake",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "d1a97f53-f02b-4ff3-8de7-062d5947d256": {
+    "id": "d1a97f53-f02b-4ff3-8de7-062d5947d256",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Meticulous Trapper",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Creature \u2014 Human Rogue",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538419.jpg?t=2026-08-10-13:21:08",
+        "isHorizontal": false
+      }
     },
-    "2943442c-d29e-4a66-ab6d-e6348f68e1eb": {
-        "id": "2943442c-d29e-4a66-ab6d-e6348f68e1eb",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Flesh Eating Lily",
-                "type": "Creature",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538399.jpg?t=2026-08-10-12:36:17",
-                "isHorizontal": false
-            }
-        },
+    "name": "Meticulous Trapper",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Creature — Human Rogue",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "2943442c-d29e-4a66-ab6d-e6348f68e1eb": {
+    "id": "2943442c-d29e-4a66-ab6d-e6348f68e1eb",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Flesh Eating Lily",
         "type": "Creature",
         "cost": 2,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Creature \u2014 Plant",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538399.jpg?t=2026-08-10-12:36:17",
+        "isHorizontal": false
+      }
     },
-    "eec6389b-1927-4146-ba64-0378fcfa1f86": {
-        "id": "eec6389b-1927-4146-ba64-0378fcfa1f86",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Wanderous Cartographer",
-                "type": "Creature",
-                "cost": 1,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537599.jpg?t=2026-08-10-11:47:33",
-                "isHorizontal": false
-            }
-        },
+    "name": "Flesh Eating Lily",
+    "type": "Creature",
+    "cost": 2,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Creature — Plant",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "eec6389b-1927-4146-ba64-0378fcfa1f86": {
+    "id": "eec6389b-1927-4146-ba64-0378fcfa1f86",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Wanderous Cartographer",
         "type": "Creature",
         "cost": 1,
-        "Colors": [
-            "G",
-            "W"
-        ],
-        "Card type": "Creature \u2014 Human Advisor",
-        "Color identity": [
-            "G",
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537599.jpg?t=2026-08-10-11:47:33",
+        "isHorizontal": false
+      }
     },
-    "fbce9962-356d-4213-81db-cb0c37770fdc": {
-        "id": "fbce9962-356d-4213-81db-cb0c37770fdc",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Overgrown Idol",
-                "type": "Artifact",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538380.jpg?t=2026-08-10-11:21:08",
-                "isHorizontal": false
-            }
-        },
+    "name": "Wanderous Cartographer",
+    "type": "Creature",
+    "cost": 1,
+    "Colors": [
+      "G",
+      "W"
+    ],
+    "Card type": "Creature — Human Advisor",
+    "Color identity": [
+      "G",
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "fbce9962-356d-4213-81db-cb0c37770fdc": {
+    "id": "fbce9962-356d-4213-81db-cb0c37770fdc",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Overgrown Idol",
         "type": "Artifact",
         "cost": 2,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Artifact \u2014 Totem",
-        "Color identity": [
-            "G"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538380.jpg?t=2026-08-10-11:21:08",
+        "isHorizontal": false
+      }
     },
-    "304e1dd8-6bf9-4401-ba4a-d19634a12d11": {
-        "id": "304e1dd8-6bf9-4401-ba4a-d19634a12d11",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Felar, Expedition Leader",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538372.jpg?t=2026-08-10-09:51:15",
-                "isHorizontal": false
-            }
-        },
+    "name": "Overgrown Idol",
+    "type": "Artifact",
+    "cost": 2,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Artifact — Totem",
+    "Color identity": [
+      "G"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "304e1dd8-6bf9-4401-ba4a-d19634a12d11": {
+    "id": "304e1dd8-6bf9-4401-ba4a-d19634a12d11",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Felar, Expedition Leader",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "G",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Scout",
-        "Color identity": [
-            "G",
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538372.jpg?t=2026-08-10-09:51:15",
+        "isHorizontal": false
+      }
     },
-    "ba98ba72-e818-4d89-b701-ee69d7fe9559": {
-        "id": "ba98ba72-e818-4d89-b701-ee69d7fe9559",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Sailsword Fish",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538205.jpg?t=2026-08-09-19:37:29",
-                "isHorizontal": false
-            }
-        },
+    "name": "Felar, Expedition Leader",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "G",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Human Scout",
+    "Color identity": [
+      "G",
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "ba98ba72-e818-4d89-b701-ee69d7fe9559": {
+    "id": "ba98ba72-e818-4d89-b701-ee69d7fe9559",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Sailsword Fish",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Creature \u2014 Fish",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538205.jpg?t=2026-08-09-19:37:29",
+        "isHorizontal": false
+      }
     },
-    "aa5b25b9-a705-4129-959c-39978b4c252c": {
-        "id": "aa5b25b9-a705-4129-959c-39978b4c252c",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Great Binding Squid",
-                "type": "Creature",
-                "cost": 6,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538214.jpg?t=2026-08-09-19:35:40",
-                "isHorizontal": false
-            }
-        },
+    "name": "Sailsword Fish",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Creature — Fish",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "aa5b25b9-a705-4129-959c-39978b4c252c": {
+    "id": "aa5b25b9-a705-4129-959c-39978b4c252c",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Great Binding Squid",
         "type": "Creature",
         "cost": 6,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Creature \u2014 Leviathan Squid",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538214.jpg?t=2026-08-09-19:35:40",
+        "isHorizontal": false
+      }
     },
-    "800b4564-eef5-421a-909d-f42e4cb239da": {
-        "id": "800b4564-eef5-421a-909d-f42e4cb239da",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Clouldlike Dragon",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538197.jpg?t=2026-08-09-19:32:20",
-                "isHorizontal": false
-            }
-        },
+    "name": "Great Binding Squid",
+    "type": "Creature",
+    "cost": 6,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Creature — Leviathan Squid",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "800b4564-eef5-421a-909d-f42e4cb239da": {
+    "id": "800b4564-eef5-421a-909d-f42e4cb239da",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Clouldlike Dragon",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Creature \u2014 Elemental Dragon",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538197.jpg?t=2026-08-09-19:32:20",
+        "isHorizontal": false
+      }
     },
-    "8e854c11-795d-4cb5-8932-3d75bf81ef00": {
-        "id": "8e854c11-795d-4cb5-8932-3d75bf81ef00",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Thriving Isle",
-                "type": "Land",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538224.jpg?t=2026-08-09-18:43:07",
-                "isHorizontal": false
-            }
-        },
+    "name": "Clouldlike Dragon",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Creature — Elemental Dragon",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "8e854c11-795d-4cb5-8932-3d75bf81ef00": {
+    "id": "8e854c11-795d-4cb5-8932-3d75bf81ef00",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Thriving Isle",
         "type": "Land",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Land",
-        "Color identity": [],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538224.jpg?t=2026-08-09-18:43:07",
+        "isHorizontal": false
+      }
     },
-    "e1a302ad-136c-4dd6-9206-8282335b455f": {
-        "id": "e1a302ad-136c-4dd6-9206-8282335b455f",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Island",
-                "type": "Land",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538222.jpg?t=2026-08-09-18:32:13",
-                "isHorizontal": false
-            }
-        },
+    "name": "Thriving Isle",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Land",
+    "Color identity": [],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "e1a302ad-136c-4dd6-9206-8282335b455f": {
+    "id": "e1a302ad-136c-4dd6-9206-8282335b455f",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Island",
         "type": "Land",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Land \u2014 Island",
-        "Color identity": [],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538222.jpg?t=2026-08-09-18:32:13",
+        "isHorizontal": false
+      }
     },
-    "f70383fd-5fcc-4c19-a11b-985f32ff9280": {
-        "id": "f70383fd-5fcc-4c19-a11b-985f32ff9280",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Anchor to the Sea Floor",
-                "type": "Enchantment",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538103.jpg?t=2026-08-09-18:26:21",
-                "isHorizontal": false
-            }
-        },
+    "name": "Island",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Land — Island",
+    "Color identity": [],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "f70383fd-5fcc-4c19-a11b-985f32ff9280": {
+    "id": "f70383fd-5fcc-4c19-a11b-985f32ff9280",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Anchor to the Sea Floor",
         "type": "Enchantment",
         "cost": 2,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Enchantment \u2014 Aura",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538103.jpg?t=2026-08-09-18:26:21",
+        "isHorizontal": false
+      }
     },
-    "a9e439de-5e5c-4e60-a4a8-7e37fcd6e624": {
-        "id": "a9e439de-5e5c-4e60-a4a8-7e37fcd6e624",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Mana-Swelling Leviathan",
-                "type": "Creature",
-                "cost": 5,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538080.jpg?t=2026-08-09-18:23:09",
-                "isHorizontal": false
-            }
-        },
+    "name": "Anchor to the Sea Floor",
+    "type": "Enchantment",
+    "cost": 2,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Enchantment — Aura",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "a9e439de-5e5c-4e60-a4a8-7e37fcd6e624": {
+    "id": "a9e439de-5e5c-4e60-a4a8-7e37fcd6e624",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Mana-Swelling Leviathan",
         "type": "Creature",
         "cost": 5,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Creature \u2014 Leviathan Serpent",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538080.jpg?t=2026-08-09-18:23:09",
+        "isHorizontal": false
+      }
     },
-    "ce71ba04-1eab-4db5-9a8b-ee1c1e4c56bc": {
-        "id": "ce71ba04-1eab-4db5-9a8b-ee1c1e4c56bc",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Dawn of the Great Flood",
-                "type": "Instant",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538220.jpg?t=2026-08-09-18:21:21",
-                "isHorizontal": false
-            }
-        },
+    "name": "Mana-Swelling Leviathan",
+    "type": "Creature",
+    "cost": 5,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Creature — Leviathan Serpent",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "ce71ba04-1eab-4db5-9a8b-ee1c1e4c56bc": {
+    "id": "ce71ba04-1eab-4db5-9a8b-ee1c1e4c56bc",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Dawn of the Great Flood",
         "type": "Instant",
         "cost": 3,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Instant",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538220.jpg?t=2026-08-09-18:21:21",
+        "isHorizontal": false
+      }
     },
-    "1288b1d9-6011-44f2-b4f9-53c6c7057f04": {
-        "id": "1288b1d9-6011-44f2-b4f9-53c6c7057f04",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Protected by Waves",
-                "type": "Instant",
-                "cost": 1,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538168.jpg?t=2026-08-09-17:54:28",
-                "isHorizontal": false
-            }
-        },
+    "name": "Dawn of the Great Flood",
+    "type": "Instant",
+    "cost": 3,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Instant",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "1288b1d9-6011-44f2-b4f9-53c6c7057f04": {
+    "id": "1288b1d9-6011-44f2-b4f9-53c6c7057f04",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Protected by Waves",
         "type": "Instant",
         "cost": 1,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Instant",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538168.jpg?t=2026-08-09-17:54:28",
+        "isHorizontal": false
+      }
     },
-    "ac48720b-2300-4de6-8759-eeb8658e42f9": {
-        "id": "ac48720b-2300-4de6-8759-eeb8658e42f9",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Sea-Carrier Barrel Shark",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538095.jpg?t=2026-08-09-17:27:38",
-                "isHorizontal": false
-            }
-        },
+    "name": "Protected by Waves",
+    "type": "Instant",
+    "cost": 1,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Instant",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "ac48720b-2300-4de6-8759-eeb8658e42f9": {
+    "id": "ac48720b-2300-4de6-8759-eeb8658e42f9",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Sea-Carrier Barrel Shark",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Creature \u2014 Whale Shark",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538095.jpg?t=2026-08-09-17:27:38",
+        "isHorizontal": false
+      }
     },
-    "9dc50128-4b47-4410-a9bc-f6eb71fc5d14": {
-        "id": "9dc50128-4b47-4410-a9bc-f6eb71fc5d14",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Sea Floor Sting",
-                "type": "Creature",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538091.jpg?t=2026-08-09-16:39:17",
-                "isHorizontal": false
-            }
-        },
+    "name": "Sea-Carrier Barrel Shark",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Creature — Whale Shark",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "9dc50128-4b47-4410-a9bc-f6eb71fc5d14": {
+    "id": "9dc50128-4b47-4410-a9bc-f6eb71fc5d14",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Sea Floor Sting",
         "type": "Creature",
         "cost": 2,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Creature \u2014 Fish",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538091.jpg?t=2026-08-09-16:39:17",
+        "isHorizontal": false
+      }
     },
-    "fcf76e7a-e121-4b50-b08e-30100f3c5624": {
-        "id": "fcf76e7a-e121-4b50-b08e-30100f3c5624",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Sunken Idol",
-                "type": "Artifact",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538100.jpg?t=2026-08-09-12:01:50",
-                "isHorizontal": false
-            }
-        },
+    "name": "Sea Floor Sting",
+    "type": "Creature",
+    "cost": 2,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Creature — Fish",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "fcf76e7a-e121-4b50-b08e-30100f3c5624": {
+    "id": "fcf76e7a-e121-4b50-b08e-30100f3c5624",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Sunken Idol",
         "type": "Artifact",
         "cost": 2,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Artifact \u2014 Totem",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538100.jpg?t=2026-08-09-12:01:50",
+        "isHorizontal": false
+      }
     },
-    "8336cc6d-8a4b-4110-92d4-aa349d94987b": {
-        "id": "8336cc6d-8a4b-4110-92d4-aa349d94987b",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Harness the Tides",
-                "type": "Sorcery",
-                "cost": 5,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538085.jpg?t=2026-08-09-11:26:01",
-                "isHorizontal": false
-            }
-        },
+    "name": "Sunken Idol",
+    "type": "Artifact",
+    "cost": 2,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Artifact — Totem",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "8336cc6d-8a4b-4110-92d4-aa349d94987b": {
+    "id": "8336cc6d-8a4b-4110-92d4-aa349d94987b",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Harness the Tides",
         "type": "Sorcery",
         "cost": 5,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Sorcery",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538085.jpg?t=2026-08-09-11:26:01",
+        "isHorizontal": false
+      }
     },
-    "9788b59c-bbb8-42ef-a3e3-04c822ace886": {
-        "id": "9788b59c-bbb8-42ef-a3e3-04c822ace886",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Sink Down",
-                "type": "Instant",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538082.jpg?t=2026-08-09-11:13:04",
-                "isHorizontal": false
-            }
-        },
+    "name": "Harness the Tides",
+    "type": "Sorcery",
+    "cost": 5,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Sorcery",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "9788b59c-bbb8-42ef-a3e3-04c822ace886": {
+    "id": "9788b59c-bbb8-42ef-a3e3-04c822ace886",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Sink Down",
         "type": "Instant",
         "cost": 3,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Instant",
-        "Color identity": [
-            "U"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/538082.jpg?t=2026-08-09-11:13:04",
+        "isHorizontal": false
+      }
     },
-    "24508a13-2d59-47e4-a56a-5d8f0c9d5d85": {
-        "id": "24508a13-2d59-47e4-a56a-5d8f0c9d5d85",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Scout's Regiment",
-                "type": "Enchantment",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537610.jpg?t=2026-08-08-11:31:40",
-                "isHorizontal": false
-            }
-        },
+    "name": "Sink Down",
+    "type": "Instant",
+    "cost": 3,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Instant",
+    "Color identity": [
+      "U"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "24508a13-2d59-47e4-a56a-5d8f0c9d5d85": {
+    "id": "24508a13-2d59-47e4-a56a-5d8f0c9d5d85",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Scout's Regiment",
         "type": "Enchantment",
         "cost": 3,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Enchantment",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537610.jpg?t=2026-08-08-11:31:40",
+        "isHorizontal": false
+      }
     },
-    "58bf08d9-879b-46a3-ad34-818c66d55f0a": {
-        "id": "58bf08d9-879b-46a3-ad34-818c66d55f0a",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Opportunistic Ranger",
-                "type": "Creature",
-                "cost": 1,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537592.jpg?t=2026-08-08-10:11:38",
-                "isHorizontal": false
-            }
-        },
+    "name": "Scout's Regiment",
+    "type": "Enchantment",
+    "cost": 3,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Enchantment",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "58bf08d9-879b-46a3-ad34-818c66d55f0a": {
+    "id": "58bf08d9-879b-46a3-ad34-818c66d55f0a",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Opportunistic Ranger",
         "type": "Creature",
         "cost": 1,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Creature \u2014 Human Rogue",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537592.jpg?t=2026-08-08-10:11:38",
+        "isHorizontal": false
+      }
     },
-    "912d60a8-f168-4258-9265-676e475065cb": {
-        "id": "912d60a8-f168-4258-9265-676e475065cb",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Hired Scout",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537578.jpg?t=2026-08-08-10:06:54",
-                "isHorizontal": false
-            }
-        },
+    "name": "Opportunistic Ranger",
+    "type": "Creature",
+    "cost": 1,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Creature — Human Rogue",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "912d60a8-f168-4258-9265-676e475065cb": {
+    "id": "912d60a8-f168-4258-9265-676e475065cb",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Hired Scout",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Creature \u2014 Human Scout",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537578.jpg?t=2026-08-08-10:06:54",
+        "isHorizontal": false
+      }
     },
-    "a40e7be4-73d1-4a9d-a722-8628a7afa74f": {
-        "id": "a40e7be4-73d1-4a9d-a722-8628a7afa74f",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Ranger Frontliner",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537597.jpg?t=2026-08-07-21:27:07",
-                "isHorizontal": false
-            }
-        },
+    "name": "Hired Scout",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Creature — Human Scout",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "a40e7be4-73d1-4a9d-a722-8628a7afa74f": {
+    "id": "a40e7be4-73d1-4a9d-a722-8628a7afa74f",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Ranger Frontliner",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Creature \u2014 Human Warrior",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537597.jpg?t=2026-08-07-21:27:07",
+        "isHorizontal": false
+      }
     },
-    "c36a5271-059f-44c1-bae5-cf4a6fd3d8fa": {
-        "id": "c36a5271-059f-44c1-bae5-cf4a6fd3d8fa",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Thriving Heath",
-                "type": "Land",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537615.jpg?t=2026-08-07-21:11:16",
-                "isHorizontal": false
-            }
-        },
+    "name": "Ranger Frontliner",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Creature — Human Warrior",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "c36a5271-059f-44c1-bae5-cf4a6fd3d8fa": {
+    "id": "c36a5271-059f-44c1-bae5-cf4a6fd3d8fa",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Thriving Heath",
         "type": "Land",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Land",
-        "Color identity": [],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537615.jpg?t=2026-08-07-21:11:16",
+        "isHorizontal": false
+      }
     },
-    "debf9799-7821-433b-a99e-7161854ee18b": {
-        "id": "debf9799-7821-433b-a99e-7161854ee18b",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Plains",
-                "type": "Land",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537612.jpg?t=2026-08-07-21:06:06",
-                "isHorizontal": false
-            }
-        },
+    "name": "Thriving Heath",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Land",
+    "Color identity": [],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "debf9799-7821-433b-a99e-7161854ee18b": {
+    "id": "debf9799-7821-433b-a99e-7161854ee18b",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Plains",
         "type": "Land",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Land \u2014 Plains",
-        "Color identity": [],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537612.jpg?t=2026-08-07-21:06:06",
+        "isHorizontal": false
+      }
     },
-    "2d3ea3c5-34fa-4cc6-8802-0f973331720d": {
-        "id": "2d3ea3c5-34fa-4cc6-8802-0f973331720d",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Draconic Air Specialist",
-                "type": "Creature",
-                "cost": 6,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537606.jpg?t=2026-08-07-20:53:02",
-                "isHorizontal": false
-            }
-        },
+    "name": "Plains",
+    "type": "Land",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Land — Plains",
+    "Color identity": [],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "2d3ea3c5-34fa-4cc6-8802-0f973331720d": {
+    "id": "2d3ea3c5-34fa-4cc6-8802-0f973331720d",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Draconic Air Specialist",
         "type": "Creature",
         "cost": 6,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Creature \u2014 Dragon Human Scout",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537606.jpg?t=2026-08-07-20:53:02",
+        "isHorizontal": false
+      }
     },
-    "098ee3ee-6650-4f82-a25d-b9861ead6bd9": {
-        "id": "098ee3ee-6650-4f82-a25d-b9861ead6bd9",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Calm the beast",
-                "type": "Enchantment",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537603.jpg?t=2026-08-07-20:39:45",
-                "isHorizontal": false
-            }
-        },
+    "name": "Draconic Air Specialist",
+    "type": "Creature",
+    "cost": 6,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Creature — Dragon Human Scout",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "098ee3ee-6650-4f82-a25d-b9861ead6bd9": {
+    "id": "098ee3ee-6650-4f82-a25d-b9861ead6bd9",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Calm the beast",
         "type": "Enchantment",
         "cost": 2,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Enchantment \u2014 Aura",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537603.jpg?t=2026-08-07-20:39:45",
+        "isHorizontal": false
+      }
     },
-    "5ada4ec2-431a-49ce-8ad9-e195c90b758a": {
-        "id": "5ada4ec2-431a-49ce-8ad9-e195c90b758a",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Army's Horn",
-                "type": "Artifact",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537600.jpg?t=2026-08-07-20:29:06",
-                "isHorizontal": false
-            }
-        },
+    "name": "Calm the beast",
+    "type": "Enchantment",
+    "cost": 2,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Enchantment — Aura",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "5ada4ec2-431a-49ce-8ad9-e195c90b758a": {
+    "id": "5ada4ec2-431a-49ce-8ad9-e195c90b758a",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Army's Horn",
         "type": "Artifact",
         "cost": 4,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Artifact",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537600.jpg?t=2026-08-07-20:29:06",
+        "isHorizontal": false
+      }
     },
-    "5e5def0f-e9bf-479a-83e2-44bcc228827f": {
-        "id": "5e5def0f-e9bf-479a-83e2-44bcc228827f",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Seasoned Explorer",
-                "type": "Creature",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537594.jpg?t=2026-08-07-20:03:20",
-                "isHorizontal": false
-            }
-        },
+    "name": "Army's Horn",
+    "type": "Artifact",
+    "cost": 4,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Artifact",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "5e5def0f-e9bf-479a-83e2-44bcc228827f": {
+    "id": "5e5def0f-e9bf-479a-83e2-44bcc228827f",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Seasoned Explorer",
         "type": "Creature",
         "cost": 2,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Creature \u2014 Dwarf Advisor",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537594.jpg?t=2026-08-07-20:03:20",
+        "isHorizontal": false
+      }
     },
-    "3e5c890a-a058-41fa-a65d-93777aacf8b1": {
-        "id": "3e5c890a-a058-41fa-a65d-93777aacf8b1",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Band together",
-                "type": "Instant",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537591.jpg?t=2026-08-07-19:46:24",
-                "isHorizontal": false
-            }
-        },
+    "name": "Seasoned Explorer",
+    "type": "Creature",
+    "cost": 2,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Creature — Dwarf Advisor",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "3e5c890a-a058-41fa-a65d-93777aacf8b1": {
+    "id": "3e5c890a-a058-41fa-a65d-93777aacf8b1",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Band together",
         "type": "Instant",
         "cost": 3,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Instant",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537591.jpg?t=2026-08-07-19:46:24",
+        "isHorizontal": false
+      }
     },
-    "a5c8d5cd-3f8d-4f90-8408-59acd2c9c0a4": {
-        "id": "a5c8d5cd-3f8d-4f90-8408-59acd2c9c0a4",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Mana-Touched Ranger",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537585.jpg?t=2026-08-07-19:27:42",
-                "isHorizontal": false
-            }
-        },
+    "name": "Band together",
+    "type": "Instant",
+    "cost": 3,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Instant",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "a5c8d5cd-3f8d-4f90-8408-59acd2c9c0a4": {
+    "id": "a5c8d5cd-3f8d-4f90-8408-59acd2c9c0a4",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Mana-Touched Ranger",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Creature \u2014 Elf Warrior",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537585.jpg?t=2026-08-07-19:27:42",
+        "isHorizontal": false
+      }
     },
-    "ecce25af-0bf4-4856-8630-b66edc96f964": {
-        "id": "ecce25af-0bf4-4856-8630-b66edc96f964",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Ambushing Arrows",
-                "type": "Instant",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537580.jpg?t=2026-08-07-19:13:14",
-                "isHorizontal": false
-            }
-        },
+    "name": "Mana-Touched Ranger",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Creature — Elf Warrior",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "ecce25af-0bf4-4856-8630-b66edc96f964": {
+    "id": "ecce25af-0bf4-4856-8630-b66edc96f964",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Ambushing Arrows",
         "type": "Instant",
         "cost": 2,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Instant",
-        "Color identity": [
-            "W"
-        ],
-        "set": "ROB",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537580.jpg?t=2026-08-07-19:13:14",
+        "isHorizontal": false
+      }
     },
-    "b2644db2-bde6-4e99-b4d1-bf97f05888cb": {
-        "id": "b2644db2-bde6-4e99-b4d1-bf97f05888cb",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Jedi Initiates",
-                "type": "Creature",
-                "cost": 1,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528901.jpg?t=2026-07-17-20:24:16",
-                "isHorizontal": false
-            }
-        },
+    "name": "Ambushing Arrows",
+    "type": "Instant",
+    "cost": 2,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Instant",
+    "Color identity": [
+      "W"
+    ],
+    "set": "ROB",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "b2644db2-bde6-4e99-b4d1-bf97f05888cb": {
+    "id": "b2644db2-bde6-4e99-b4d1-bf97f05888cb",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Jedi Initiates",
         "type": "Creature",
         "cost": 1,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Creature \u2014 Jedi",
-        "Color identity": [
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528901.jpg?t=2026-07-17-20:24:16",
+        "isHorizontal": false
+      }
     },
-    "80669e13-f2d8-475e-87c3-8b7ffdf11a9b": {
-        "id": "80669e13-f2d8-475e-87c3-8b7ffdf11a9b",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Luke Skywalker, Leaving Home",
-                "type": "Creature",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537092.jpg?t=2026-08-06-14:56:03",
-                "isHorizontal": false
-            }
-        },
+    "name": "Jedi Initiates",
+    "type": "Creature",
+    "cost": 1,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Creature — Jedi",
+    "Color identity": [
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "80669e13-f2d8-475e-87c3-8b7ffdf11a9b": {
+    "id": "80669e13-f2d8-475e-87c3-8b7ffdf11a9b",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Luke Skywalker, Leaving Home",
         "type": "Creature",
         "cost": 2,
-        "Colors": [
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Rebel",
-        "Color identity": [
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537092.jpg?t=2026-08-06-14:56:03",
+        "isHorizontal": false
+      }
     },
-    "0ebb891d-4869-400b-9f40-babbe8b7e4c1": {
-        "id": "0ebb891d-4869-400b-9f40-babbe8b7e4c1",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Blue Lightsaber",
-                "type": "Artifact",
-                "cost": 5,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534572.jpg?t=2026-07-30-17:07:10",
-                "isHorizontal": false
-            }
-        },
+    "name": "Luke Skywalker, Leaving Home",
+    "type": "Creature",
+    "cost": 2,
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Legendary Creature — Human Rebel",
+    "Color identity": [
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "0ebb891d-4869-400b-9f40-babbe8b7e4c1": {
+    "id": "0ebb891d-4869-400b-9f40-babbe8b7e4c1",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Blue Lightsaber",
         "type": "Artifact",
         "cost": 5,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Artifact \u2014 Equipment",
-        "Color identity": [
-            "U"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534572.jpg?t=2026-07-30-17:07:10",
+        "isHorizontal": false
+      }
     },
-    "e4043151-a075-4692-af46-c967712b3840": {
-        "id": "e4043151-a075-4692-af46-c967712b3840",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Luke Skywalker, Hero of the Rebellion",
-                "type": "Creature",
-                "cost": 1,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528897.jpg?t=2026-07-17-20:09:28",
-                "isHorizontal": false
-            }
-        },
+    "name": "Blue Lightsaber",
+    "type": "Artifact",
+    "cost": 5,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Artifact — Equipment",
+    "Color identity": [
+      "U"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "e4043151-a075-4692-af46-c967712b3840": {
+    "id": "e4043151-a075-4692-af46-c967712b3840",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Luke Skywalker, Hero of the Rebellion",
         "type": "Creature",
         "cost": 1,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Rebel Pilot",
-        "Color identity": [
-            "U"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528897.jpg?t=2026-07-17-20:09:28",
+        "isHorizontal": false
+      }
     },
-    "1c261db9-6be6-4b97-b7db-03fd25b03576": {
-        "id": "1c261db9-6be6-4b97-b7db-03fd25b03576",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "R2D2, Carrier of the Plans",
-                "type": "Artifact",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537106.jpg?t=2026-08-06-15:19:02",
-                "isHorizontal": false
-            }
-        },
+    "name": "Luke Skywalker, Hero of the Rebellion",
+    "type": "Creature",
+    "cost": 1,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Legendary Creature — Human Rebel Pilot",
+    "Color identity": [
+      "U"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "1c261db9-6be6-4b97-b7db-03fd25b03576": {
+    "id": "1c261db9-6be6-4b97-b7db-03fd25b03576",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "R2D2, Carrier of the Plans",
         "type": "Artifact",
         "cost": 4,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Legendary Artifact",
-        "Color identity": [
-            "U"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537106.jpg?t=2026-08-06-15:19:02",
+        "isHorizontal": false
+      }
     },
-    "f1351b14-10cf-48f9-a14a-98f6a672f2e2": {
-        "id": "f1351b14-10cf-48f9-a14a-98f6a672f2e2",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Han Solo, Smuggler",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534901.jpg?t=2026-08-06-14:41:27",
-                "isHorizontal": false
-            }
-        },
+    "name": "R2D2, Carrier of the Plans",
+    "type": "Artifact",
+    "cost": 4,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Legendary Artifact",
+    "Color identity": [
+      "U"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "f1351b14-10cf-48f9-a14a-98f6a672f2e2": {
+    "id": "f1351b14-10cf-48f9-a14a-98f6a672f2e2",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Han Solo, Smuggler",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "B"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Rebel Rogue",
-        "Color identity": [
-            "B"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534901.jpg?t=2026-08-06-14:41:27",
+        "isHorizontal": false
+      }
     },
-    "69751e5a-4ea6-4fa6-a5da-380297637b91": {
-        "id": "69751e5a-4ea6-4fa6-a5da-380297637b91",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "C-3PO, Confused and Afraid",
-                "type": "Artifact",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537114.jpg?t=2026-08-06-15:41:49",
-                "isHorizontal": false
-            }
-        },
+    "name": "Han Solo, Smuggler",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Legendary Creature — Human Rebel Rogue",
+    "Color identity": [
+      "B"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "69751e5a-4ea6-4fa6-a5da-380297637b91": {
+    "id": "69751e5a-4ea6-4fa6-a5da-380297637b91",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "C-3PO, Confused and Afraid",
         "type": "Artifact",
         "cost": 3,
-        "Colors": [
-            "R"
-        ],
-        "Card type": "Legendary Artifact",
-        "Color identity": [
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/537114.jpg?t=2026-08-06-15:41:49",
+        "isHorizontal": false
+      }
     },
-    "228c554c-df3d-40b4-b028-7df48c79508c": {
-        "id": "228c554c-df3d-40b4-b028-7df48c79508c",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Red Lightsaber",
-                "type": "Artifact",
-                "cost": 1,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534597.jpg?t=2026-07-30-18:06:55",
-                "isHorizontal": false
-            }
-        },
+    "name": "C-3PO, Confused and Afraid",
+    "type": "Artifact",
+    "cost": 3,
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Legendary Artifact",
+    "Color identity": [
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "228c554c-df3d-40b4-b028-7df48c79508c": {
+    "id": "228c554c-df3d-40b4-b028-7df48c79508c",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Red Lightsaber",
         "type": "Artifact",
         "cost": 1,
-        "Colors": [
-            "R"
-        ],
-        "Card type": "Artifact \u2014 Equipment",
-        "Color identity": [
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534597.jpg?t=2026-07-30-18:06:55",
+        "isHorizontal": false
+      }
     },
-    "34b890ac-6810-4c1e-8ea6-99cc78d0b00c": {
-        "id": "34b890ac-6810-4c1e-8ea6-99cc78d0b00c",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Star Destroyer",
-                "type": "Artifact",
-                "cost": 7,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/527548.jpg?t=2026-07-31-16:23:54",
-                "isHorizontal": false
-            }
-        },
+    "name": "Red Lightsaber",
+    "type": "Artifact",
+    "cost": 1,
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Artifact — Equipment",
+    "Color identity": [
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "34b890ac-6810-4c1e-8ea6-99cc78d0b00c": {
+    "id": "34b890ac-6810-4c1e-8ea6-99cc78d0b00c",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Star Destroyer",
         "type": "Artifact",
         "cost": 7,
-        "Colors": [
-            "R"
-        ],
-        "Card type": "Legendary Artifact \u2014 Vehicle",
-        "Color identity": [
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/527548.jpg?t=2026-07-31-16:23:54",
+        "isHorizontal": false
+      }
     },
-    "90aef245-5e30-4190-9468-1c5ef5e841de": {
-        "id": "90aef245-5e30-4190-9468-1c5ef5e841de",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Chewbacca, Mighty Companion",
-                "type": "Creature",
-                "cost": 5,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534640.jpg?t=2026-07-30-19:47:52",
-                "isHorizontal": false
-            }
-        },
+    "name": "Star Destroyer",
+    "type": "Artifact",
+    "cost": 7,
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Legendary Artifact — Vehicle",
+    "Color identity": [
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "90aef245-5e30-4190-9468-1c5ef5e841de": {
+    "id": "90aef245-5e30-4190-9468-1c5ef5e841de",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Chewbacca, Mighty Companion",
         "type": "Creature",
         "cost": 5,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Legendary Creature \u2014 Beast Rebel",
-        "Color identity": [
-            "G"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534640.jpg?t=2026-07-30-19:47:52",
+        "isHorizontal": false
+      }
     },
-    "91c7864b-00f8-4d31-a1ce-bf393f147a56": {
-        "id": "91c7864b-00f8-4d31-a1ce-bf393f147a56",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Ewok Ambushers",
-                "type": "Creature",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528906.jpg?t=2026-07-17-20:46:08",
-                "isHorizontal": false
-            }
-        },
+    "name": "Chewbacca, Mighty Companion",
+    "type": "Creature",
+    "cost": 5,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Legendary Creature — Beast Rebel",
+    "Color identity": [
+      "G"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "91c7864b-00f8-4d31-a1ce-bf393f147a56": {
+    "id": "91c7864b-00f8-4d31-a1ce-bf393f147a56",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Ewok Ambushers",
         "type": "Creature",
         "cost": 2,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Creature \u2014 Beast Warrior",
-        "Color identity": [
-            "G"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528906.jpg?t=2026-07-17-20:46:08",
+        "isHorizontal": false
+      }
     },
-    "e83bcb07-e87a-4ad0-9e65-5e2132cad6e5": {
-        "id": "e83bcb07-e87a-4ad0-9e65-5e2132cad6e5",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Green Lightsaber",
-                "type": "Artifact",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534592.jpg?t=2026-07-30-17:52:43",
-                "isHorizontal": false
-            }
-        },
+    "name": "Ewok Ambushers",
+    "type": "Creature",
+    "cost": 2,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Creature — Beast Warrior",
+    "Color identity": [
+      "G"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "e83bcb07-e87a-4ad0-9e65-5e2132cad6e5": {
+    "id": "e83bcb07-e87a-4ad0-9e65-5e2132cad6e5",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Green Lightsaber",
         "type": "Artifact",
         "cost": 4,
-        "Colors": [
-            "G"
-        ],
-        "Card type": "Artifact \u2014 Equipment",
-        "Color identity": [
-            "G"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534592.jpg?t=2026-07-30-17:52:43",
+        "isHorizontal": false
+      }
     },
-    "f81d9dec-27d6-4a17-840c-69483bf8ce4c": {
-        "id": "f81d9dec-27d6-4a17-840c-69483bf8ce4c",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Ahsoka's Lightsabers",
-                "type": "Artifact",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534604.jpg?t=2026-07-30-18:55:41",
-                "isHorizontal": false
-            }
-        },
+    "name": "Green Lightsaber",
+    "type": "Artifact",
+    "cost": 4,
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Artifact — Equipment",
+    "Color identity": [
+      "G"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "f81d9dec-27d6-4a17-840c-69483bf8ce4c": {
+    "id": "f81d9dec-27d6-4a17-840c-69483bf8ce4c",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Ahsoka's Lightsabers",
         "type": "Artifact",
         "cost": 2,
-        "Colors": [
-            "B",
-            "W"
-        ],
-        "Card type": "Legendary Artifact \u2014 Equipment",
-        "Color identity": [
-            "B",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534604.jpg?t=2026-07-30-18:55:41",
+        "isHorizontal": false
+      }
     },
-    "50254c85-6a9d-4284-954f-61dedaa81233": {
-        "id": "50254c85-6a9d-4284-954f-61dedaa81233",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Anakin Skywalker, Genius Artificer",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526839.jpg?t=2026-07-31-16:08:39",
-                "isHorizontal": false
-            }
-        },
+    "name": "Ahsoka's Lightsabers",
+    "type": "Artifact",
+    "cost": 2,
+    "Colors": [
+      "B",
+      "W"
+    ],
+    "Card type": "Legendary Artifact — Equipment",
+    "Color identity": [
+      "B",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "50254c85-6a9d-4284-954f-61dedaa81233": {
+    "id": "50254c85-6a9d-4284-954f-61dedaa81233",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Anakin Skywalker, Genius Artificer",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "W",
-            "R"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Artificer",
-        "Color identity": [
-            "W",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526839.jpg?t=2026-07-31-16:08:39",
+        "isHorizontal": false
+      }
     },
-    "49011c7f-8eab-4e6b-ab67-53aa865cbc2e": {
-        "id": "49011c7f-8eab-4e6b-ab67-53aa865cbc2e",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Anakin's Lightsaber",
-                "type": "Artifact",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526812.jpg?t=2026-07-14-07:07:02",
-                "isHorizontal": false
-            }
-        },
+    "name": "Anakin Skywalker, Genius Artificer",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "Legendary Creature — Human Artificer",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "49011c7f-8eab-4e6b-ab67-53aa865cbc2e": {
+    "id": "49011c7f-8eab-4e6b-ab67-53aa865cbc2e",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Anakin's Lightsaber",
         "type": "Artifact",
         "cost": 3,
-        "Colors": [
-            "B",
-            "W"
-        ],
-        "Card type": "Artifact \u2014 Equipment",
-        "Color identity": [
-            "B",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526812.jpg?t=2026-07-14-07:07:02",
+        "isHorizontal": false
+      }
     },
-    "20cbe5b3-447e-443f-bbad-0797c9fefb0f": {
-        "id": "20cbe5b3-447e-443f-bbad-0797c9fefb0f",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "C-3PO, Reluctant Companion",
-                "type": "Artifact",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528895.jpg?t=2026-07-30-19:07:26",
-                "isHorizontal": false
-            }
-        },
+    "name": "Anakin's Lightsaber",
+    "type": "Artifact",
+    "cost": 3,
+    "Colors": [
+      "B",
+      "W"
+    ],
+    "Card type": "Artifact — Equipment",
+    "Color identity": [
+      "B",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "20cbe5b3-447e-443f-bbad-0797c9fefb0f": {
+    "id": "20cbe5b3-447e-443f-bbad-0797c9fefb0f",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "C-3PO, Reluctant Companion",
         "type": "Artifact",
         "cost": 2,
-        "Colors": [
-            "W",
-            "R"
-        ],
-        "Card type": "Legendary Artifact",
-        "Color identity": [
-            "W",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528895.jpg?t=2026-07-30-19:07:26",
+        "isHorizontal": false
+      }
     },
-    "f86b21cf-f27b-49fe-9dd1-1bb9cfe02c52": {
-        "id": "f86b21cf-f27b-49fe-9dd1-1bb9cfe02c52",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Caged Rancor",
-                "type": "Creature",
-                "cost": 5,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/527684.jpg?t=2026-07-14-14:17:37",
-                "isHorizontal": false
-            }
-        },
+    "name": "C-3PO, Reluctant Companion",
+    "type": "Artifact",
+    "cost": 2,
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "Legendary Artifact",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "f86b21cf-f27b-49fe-9dd1-1bb9cfe02c52": {
+    "id": "f86b21cf-f27b-49fe-9dd1-1bb9cfe02c52",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Caged Rancor",
         "type": "Creature",
         "cost": 5,
-        "Colors": [
-            "G",
-            "R"
-        ],
-        "Card type": "Creature \u2014 Troll Beast",
-        "Color identity": [
-            "G",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/527684.jpg?t=2026-07-14-14:17:37",
+        "isHorizontal": false
+      }
     },
-    "c5e5351b-d2af-492a-8ebd-6530bcb941fa": {
-        "id": "c5e5351b-d2af-492a-8ebd-6530bcb941fa",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Chewbacca",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526903.jpg?t=2026-08-07-17:51:58",
-                "isHorizontal": false
-            }
-        },
+    "name": "Caged Rancor",
+    "type": "Creature",
+    "cost": 5,
+    "Colors": [
+      "G",
+      "R"
+    ],
+    "Card type": "Creature — Troll Beast",
+    "Color identity": [
+      "G",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "c5e5351b-d2af-492a-8ebd-6530bcb941fa": {
+    "id": "c5e5351b-d2af-492a-8ebd-6530bcb941fa",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Chewbacca",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "U",
-            "G"
-        ],
-        "Card type": "Legendary Creature \u2014 Beast Warrior",
-        "Color identity": [
-            "U",
-            "G"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526903.jpg?t=2026-08-07-17:51:58",
+        "isHorizontal": false
+      }
     },
-    "a5d0c79f-a51b-4f3d-9258-c1eefb7aa7a0": {
-        "id": "a5d0c79f-a51b-4f3d-9258-c1eefb7aa7a0",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Darth Vader, Redeemed",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526819.jpg?t=2026-07-12-14:09:48",
-                "isHorizontal": false
-            }
-        },
+    "name": "Chewbacca",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "U",
+      "G"
+    ],
+    "Card type": "Legendary Creature — Beast Warrior",
+    "Color identity": [
+      "U",
+      "G"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "a5d0c79f-a51b-4f3d-9258-c1eefb7aa7a0": {
+    "id": "a5d0c79f-a51b-4f3d-9258-c1eefb7aa7a0",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Darth Vader, Redeemed",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "B",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Rebel",
-        "Color identity": [
-            "B",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526819.jpg?t=2026-07-12-14:09:48",
+        "isHorizontal": false
+      }
     },
-    "c74a1d15-0742-45c1-bcf3-44a85193f561": {
-        "id": "c74a1d15-0742-45c1-bcf3-44a85193f561",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Darth Vader, Supreme Commander",
-                "type": "Creature",
-                "cost": 5,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526775.jpg?t=2026-07-12-13:08:43",
-                "isHorizontal": false
-            }
-        },
+    "name": "Darth Vader, Redeemed",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "B",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Human Rebel",
+    "Color identity": [
+      "B",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "c74a1d15-0742-45c1-bcf3-44a85193f561": {
+    "id": "c74a1d15-0742-45c1-bcf3-44a85193f561",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Darth Vader, Supreme Commander",
         "type": "Creature",
         "cost": 5,
-        "Colors": [
-            "B",
-            "R"
-        ],
-        "Card type": "Legendary Creature \u2014 Sith Warrior",
-        "Color identity": [
-            "B",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526775.jpg?t=2026-07-12-13:08:43",
+        "isHorizontal": false
+      }
     },
-    "69f4756f-af00-48f8-9799-d3156f92eca3": {
-        "id": "69f4756f-af00-48f8-9799-d3156f92eca3",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Din Djarin, The Mandalorian",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534417.jpg?t=2026-07-30-09:50:42",
-                "isHorizontal": false
-            }
-        },
+    "name": "Darth Vader, Supreme Commander",
+    "type": "Creature",
+    "cost": 5,
+    "Colors": [
+      "B",
+      "R"
+    ],
+    "Card type": "Legendary Creature — Sith Warrior",
+    "Color identity": [
+      "B",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "69f4756f-af00-48f8-9799-d3156f92eca3": {
+    "id": "69f4756f-af00-48f8-9799-d3156f92eca3",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Din Djarin, The Mandalorian",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "G",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Mercenary",
-        "Color identity": [
-            "G",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534417.jpg?t=2026-07-30-09:50:42",
+        "isHorizontal": false
+      }
     },
-    "7fe4ccd5-7c6c-4b76-b025-3cf7eea1f516": {
-        "id": "7fe4ccd5-7c6c-4b76-b025-3cf7eea1f516",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Grogu, The Child",
-                "type": "Creature",
-                "cost": 6,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/534414.jpg?t=2026-07-30-09:33:29",
-                "isHorizontal": false
-            }
-        },
+    "name": "Din Djarin, The Mandalorian",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "G",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Human Mercenary",
+    "Color identity": [
+      "G",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "7fe4ccd5-7c6c-4b76-b025-3cf7eea1f516": {
+    "id": "7fe4ccd5-7c6c-4b76-b025-3cf7eea1f516",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Grogu, The Child",
         "type": "Creature",
         "cost": 6,
-        "Colors": [
-            "G",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Beast Jedi",
-        "Color identity": [
-            "G",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/534414.jpg?t=2026-07-30-09:33:29",
+        "isHorizontal": false
+      }
     },
-    "ac312273-9e79-41b9-8112-a036e652c76f": {
-        "id": "ac312273-9e79-41b9-8112-a036e652c76f",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Han Solo, Pilot of the Millenium Falcon",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526867.jpg?t=2026-07-16-10:30:44",
-                "isHorizontal": false
-            }
-        },
+    "name": "Grogu, The Child",
+    "type": "Creature",
+    "cost": 6,
+    "Colors": [
+      "G",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Beast Jedi",
+    "Color identity": [
+      "G",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "ac312273-9e79-41b9-8112-a036e652c76f": {
+    "id": "ac312273-9e79-41b9-8112-a036e652c76f",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Han Solo, Pilot of the Millenium Falcon",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "U",
-            "R"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Pilot",
-        "Color identity": [
-            "U",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526867.jpg?t=2026-07-16-10:30:44",
+        "isHorizontal": false
+      }
     },
-    "fd9cad3b-b9d8-4096-8b67-58fc469e0834": {
-        "id": "fd9cad3b-b9d8-4096-8b67-58fc469e0834",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Han Solo, Sworn Rebel",
-                "type": "Creature",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526891.jpg?t=2026-07-12-16:31:01",
-                "isHorizontal": false
-            }
-        },
+    "name": "Han Solo, Pilot of the Millenium Falcon",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "U",
+      "R"
+    ],
+    "Card type": "Legendary Creature — Human Pilot",
+    "Color identity": [
+      "U",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "fd9cad3b-b9d8-4096-8b67-58fc469e0834": {
+    "id": "fd9cad3b-b9d8-4096-8b67-58fc469e0834",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Han Solo, Sworn Rebel",
         "type": "Creature",
         "cost": 2,
-        "Colors": [
-            "U",
-            "R"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Rebel",
-        "Color identity": [
-            "U",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526891.jpg?t=2026-07-12-16:31:01",
+        "isHorizontal": false
+      }
     },
-    "f79c252a-1772-4899-819b-ce1910ed7b02": {
-        "id": "f79c252a-1772-4899-819b-ce1910ed7b02",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Jabba the Hutt, Crime Lord",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526850.jpg?t=2026-07-15-05:53:31",
-                "isHorizontal": false
-            }
-        },
+    "name": "Han Solo, Sworn Rebel",
+    "type": "Creature",
+    "cost": 2,
+    "Colors": [
+      "U",
+      "R"
+    ],
+    "Card type": "Legendary Creature — Human Rebel",
+    "Color identity": [
+      "U",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "f79c252a-1772-4899-819b-ce1910ed7b02": {
+    "id": "f79c252a-1772-4899-819b-ce1910ed7b02",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Jabba the Hutt, Crime Lord",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "B",
-            "G"
-        ],
-        "Card type": "Legendary Creature \u2014 Slug Mercenary",
-        "Color identity": [
-            "B",
-            "G"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526850.jpg?t=2026-07-15-05:53:31",
+        "isHorizontal": false
+      }
     },
-    "a3a94536-b638-4389-b841-94ba829cb980": {
-        "id": "a3a94536-b638-4389-b841-94ba829cb980",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Lady Leia Organa, Imperial Senator",
-                "type": "Creature",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534662.jpg?t=2026-07-30-20:15:11",
-                "isHorizontal": false
-            }
-        },
+    "name": "Jabba the Hutt, Crime Lord",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "B",
+      "G"
+    ],
+    "Card type": "Legendary Creature — Slug Mercenary",
+    "Color identity": [
+      "B",
+      "G"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "a3a94536-b638-4389-b841-94ba829cb980": {
+    "id": "a3a94536-b638-4389-b841-94ba829cb980",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Lady Leia Organa, Imperial Senator",
         "type": "Creature",
         "cost": 2,
-        "Colors": [
-            "U",
-            "R"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Rebel Advisor",
-        "Color identity": [
-            "U",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534662.jpg?t=2026-07-30-20:15:11",
+        "isHorizontal": false
+      }
     },
-    "ac34104e-b18d-40d0-bc88-3f707aa3f164": {
-        "id": "ac34104e-b18d-40d0-bc88-3f707aa3f164",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Leia Organa, Princess of the Rebellion",
-                "type": "Creature",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528485.jpg?t=2026-07-16-10:22:35",
-                "isHorizontal": false
-            }
-        },
+    "name": "Lady Leia Organa, Imperial Senator",
+    "type": "Creature",
+    "cost": 2,
+    "Colors": [
+      "U",
+      "R"
+    ],
+    "Card type": "Legendary Creature — Human Rebel Advisor",
+    "Color identity": [
+      "U",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "ac34104e-b18d-40d0-bc88-3f707aa3f164": {
+    "id": "ac34104e-b18d-40d0-bc88-3f707aa3f164",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Leia Organa, Princess of the Rebellion",
         "type": "Creature",
         "cost": 4,
-        "Colors": [
-            "U",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Rebel Noble",
-        "Color identity": [
-            "U",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528485.jpg?t=2026-07-16-10:22:35",
+        "isHorizontal": false
+      }
     },
-    "50dfb410-2a00-41ea-9be8-a76c53fa0bec": {
-        "id": "50dfb410-2a00-41ea-9be8-a76c53fa0bec",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Luke Skywalker, Bringer of Balance",
-                "type": "Planeswalker",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526824.jpg?t=2026-07-16-10:29:54",
-                "isHorizontal": false
-            }
-        },
+    "name": "Leia Organa, Princess of the Rebellion",
+    "type": "Creature",
+    "cost": 4,
+    "Colors": [
+      "U",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Human Rebel Noble",
+    "Color identity": [
+      "U",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "50dfb410-2a00-41ea-9be8-a76c53fa0bec": {
+    "id": "50dfb410-2a00-41ea-9be8-a76c53fa0bec",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Luke Skywalker, Bringer of Balance",
         "type": "Planeswalker",
         "cost": 4,
-        "Colors": [
-            "B",
-            "W"
-        ],
-        "Card type": "Planeswalker \u2014 Human Jedi",
-        "Color identity": [
-            "B",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526824.jpg?t=2026-07-16-10:29:54",
+        "isHorizontal": false
+      }
     },
-    "64988351-e00e-453f-b429-1fc2a97127bc": {
-        "id": "64988351-e00e-453f-b429-1fc2a97127bc",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Luke Skywalker, The Chosen One",
-                "type": "Creature",
-                "cost": 2,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526808.jpg?t=2026-07-16-10:32:20",
-                "isHorizontal": false
-            }
-        },
+    "name": "Luke Skywalker, Bringer of Balance",
+    "type": "Planeswalker",
+    "cost": 4,
+    "Colors": [
+      "B",
+      "W"
+    ],
+    "Card type": "Planeswalker — Human Jedi",
+    "Color identity": [
+      "B",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "64988351-e00e-453f-b429-1fc2a97127bc": {
+    "id": "64988351-e00e-453f-b429-1fc2a97127bc",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Luke Skywalker, The Chosen One",
         "type": "Creature",
         "cost": 2,
-        "Colors": [
-            "U",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Artificer",
-        "Color identity": [
-            "U",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526808.jpg?t=2026-07-16-10:32:20",
+        "isHorizontal": false
+      }
     },
-    "8d456709-9e95-4222-b6fb-13ff11b3404a": {
-        "id": "8d456709-9e95-4222-b6fb-13ff11b3404a",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Luke Skywalker, the Last Jedi",
-                "type": "Creature",
-                "cost": 6,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526801.jpg?t=2026-07-16-10:33:06",
-                "isHorizontal": false
-            }
-        },
+    "name": "Luke Skywalker, The Chosen One",
+    "type": "Creature",
+    "cost": 2,
+    "Colors": [
+      "U",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Human Artificer",
+    "Color identity": [
+      "U",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "8d456709-9e95-4222-b6fb-13ff11b3404a": {
+    "id": "8d456709-9e95-4222-b6fb-13ff11b3404a",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Luke Skywalker, the Last Jedi",
         "type": "Creature",
         "cost": 6,
-        "Colors": [
-            "U",
-            "G",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Jedi Master",
-        "Color identity": [
-            "U",
-            "G",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526801.jpg?t=2026-07-16-10:33:06",
+        "isHorizontal": false
+      }
     },
-    "93811774-af56-4816-9f46-756fe06917c6": {
-        "id": "93811774-af56-4816-9f46-756fe06917c6",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Mandalorian Jango Fett",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526897.jpg?t=2026-07-12-16:47:29",
-                "isHorizontal": false
-            }
-        },
+    "name": "Luke Skywalker, the Last Jedi",
+    "type": "Creature",
+    "cost": 6,
+    "Colors": [
+      "U",
+      "G",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Jedi Master",
+    "Color identity": [
+      "U",
+      "G",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "93811774-af56-4816-9f46-756fe06917c6": {
+    "id": "93811774-af56-4816-9f46-756fe06917c6",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Mandalorian Jango Fett",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "B",
-            "U"
-        ],
-        "Card type": "Creature \u2014 Human Mercenary",
-        "Color identity": [
-            "B",
-            "U"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526897.jpg?t=2026-07-12-16:47:29",
+        "isHorizontal": false
+      }
     },
-    "26bcd41e-9103-4cef-80c2-3471c8f9fe8e": {
-        "id": "26bcd41e-9103-4cef-80c2-3471c8f9fe8e",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Millenium Falcon",
-                "type": "Artifact",
-                "cost": 6,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526883.jpg?t=2026-07-17-19:56:55",
-                "isHorizontal": false
-            }
-        },
+    "name": "Mandalorian Jango Fett",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "B",
+      "U"
+    ],
+    "Card type": "Creature — Human Mercenary",
+    "Color identity": [
+      "B",
+      "U"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "26bcd41e-9103-4cef-80c2-3471c8f9fe8e": {
+    "id": "26bcd41e-9103-4cef-80c2-3471c8f9fe8e",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Millenium Falcon",
         "type": "Artifact",
         "cost": 6,
-        "Colors": [
-            "U",
-            "R"
-        ],
-        "Card type": "Legendary Artifact \u2014 Vehicle",
-        "Color identity": [
-            "U",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526883.jpg?t=2026-07-17-19:56:55",
+        "isHorizontal": false
+      }
     },
-    "61724de8-60cb-43fd-b9fd-f712eebf8e00": {
-        "id": "61724de8-60cb-43fd-b9fd-f712eebf8e00",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Old Ben, Exiled Jedi",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526783.jpg?t=2026-07-12-11:38:12",
-                "isHorizontal": false
-            }
-        },
+    "name": "Millenium Falcon",
+    "type": "Artifact",
+    "cost": 6,
+    "Colors": [
+      "U",
+      "R"
+    ],
+    "Card type": "Legendary Artifact — Vehicle",
+    "Color identity": [
+      "U",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "61724de8-60cb-43fd-b9fd-f712eebf8e00": {
+    "id": "61724de8-60cb-43fd-b9fd-f712eebf8e00",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Old Ben, Exiled Jedi",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "U",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Jedi Wizard",
-        "Color identity": [
-            "U",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526783.jpg?t=2026-07-12-11:38:12",
+        "isHorizontal": false
+      }
     },
-    "2807cbe2-1b07-4f7c-98f3-c360590c34a1": {
-        "id": "2807cbe2-1b07-4f7c-98f3-c360590c34a1",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Padm\u00e9 Amidala, Queen of Naboo",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/527549.jpg?t=2026-07-14-09:33:22",
-                "isHorizontal": false
-            }
-        },
-        "name": "Padm\u00e9 Amidala, Queen of Naboo",
+    "name": "Old Ben, Exiled Jedi",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "U",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Jedi Wizard",
+    "Color identity": [
+      "U",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "2807cbe2-1b07-4f7c-98f3-c360590c34a1": {
+    "id": "2807cbe2-1b07-4f7c-98f3-c360590c34a1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Padmé Amidala, Queen of Naboo",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "G",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Noble",
-        "Color identity": [
-            "G",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/527549.jpg?t=2026-07-14-09:33:22",
+        "isHorizontal": false
+      }
     },
-    "4bbd2812-22c4-41ca-928a-9af2b7e46d75": {
-        "id": "4bbd2812-22c4-41ca-928a-9af2b7e46d75",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "R2-D2, Loyal Companion",
-                "type": "Artifact",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528888.jpg?t=2026-08-05-17:38:00",
-                "isHorizontal": false
-            }
-        },
+    "name": "Padmé Amidala, Queen of Naboo",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "G",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Human Noble",
+    "Color identity": [
+      "G",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "4bbd2812-22c4-41ca-928a-9af2b7e46d75": {
+    "id": "4bbd2812-22c4-41ca-928a-9af2b7e46d75",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "R2-D2, Loyal Companion",
         "type": "Artifact",
         "cost": 4,
-        "Colors": [
-            "U",
-            "W",
-            "R"
-        ],
-        "Card type": "Legendary Artifact",
-        "Color identity": [
-            "U",
-            "W",
-            "R"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/528888.jpg?t=2026-08-05-17:38:00",
+        "isHorizontal": false
+      }
     },
-    "38d02ec8-7808-4e83-9bda-535862b2aa05": {
-        "id": "38d02ec8-7808-4e83-9bda-535862b2aa05",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Supreme Chancellor Palpatine",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526814a.jpg?t=2026-07-14-08:56:05",
-                "isHorizontal": false
-            }
-        },
+    "name": "R2-D2, Loyal Companion",
+    "type": "Artifact",
+    "cost": 4,
+    "Colors": [
+      "U",
+      "W",
+      "R"
+    ],
+    "Card type": "Legendary Artifact",
+    "Color identity": [
+      "U",
+      "W",
+      "R"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "38d02ec8-7808-4e83-9bda-535862b2aa05": {
+    "id": "38d02ec8-7808-4e83-9bda-535862b2aa05",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Supreme Chancellor Palpatine",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "U"
-        ],
-        "Card type": "Legendary Creature \u2014 Human Advisor",
-        "Color identity": [
-            "U"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526814a.jpg?t=2026-07-14-08:56:05",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Darth Sidius, The Betrayer",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526814b.jpg?t=2026-07-14-08:56:05",
+        "isHorizontal": false
+      }
     },
-    "11a32b63-8a2b-437e-b4ed-0a67b25f26d7": {
-        "id": "11a32b63-8a2b-437e-b4ed-0a67b25f26d7",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Yoda, Jedi Grand Master",
-                "type": "Creature",
-                "cost": 3,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526794.jpg?t=2026-07-14-06:55:58",
-                "isHorizontal": false
-            }
-        },
+    "name": "Supreme Chancellor Palpatine",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Legendary Creature — Human Advisor",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "11a32b63-8a2b-437e-b4ed-0a67b25f26d7": {
+    "id": "11a32b63-8a2b-437e-b4ed-0a67b25f26d7",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Yoda, Jedi Grand Master",
         "type": "Creature",
         "cost": 3,
-        "Colors": [
-            "G",
-            "W"
-        ],
-        "Card type": "Legendary Creature \u2014 Jedi Master",
-        "Color identity": [
-            "G",
-            "W"
-        ],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526794.jpg?t=2026-07-14-06:55:58",
+        "isHorizontal": false
+      }
     },
-    "4eb33eb3-ff77-4788-81fb-b9bd21fafdf0": {
-        "id": "4eb33eb3-ff77-4788-81fb-b9bd21fafdf0",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Mace Windu's Lightsaber",
-                "type": "Artifact",
-                "cost": 4,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534603.jpg?t=2026-07-30-18:38:02",
-                "isHorizontal": false
-            }
-        },
+    "name": "Yoda, Jedi Grand Master",
+    "type": "Creature",
+    "cost": 3,
+    "Colors": [
+      "G",
+      "W"
+    ],
+    "Card type": "Legendary Creature — Jedi Master",
+    "Color identity": [
+      "G",
+      "W"
+    ],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "4eb33eb3-ff77-4788-81fb-b9bd21fafdf0": {
+    "id": "4eb33eb3-ff77-4788-81fb-b9bd21fafdf0",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": "Mace Windu's Lightsaber",
         "type": "Artifact",
         "cost": 4,
-        "Colors": [],
-        "Card type": "Legendary Artifact \u2014 Equipment",
-        "Color identity": [],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/534603.jpg?t=2026-07-30-18:38:02",
+        "isHorizontal": false
+      }
     },
-    "41f01ce3-0271-40d8-b099-e4758388a94d": {
-        "id": "41f01ce3-0271-40d8-b099-e4758388a94d",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Clone",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/528042.jpg?t=2026-08-11-08:49:05",
-                "isHorizontal": false
-            }
-        },
+    "name": "Mace Windu's Lightsaber",
+    "type": "Artifact",
+    "cost": 4,
+    "Colors": [],
+    "Card type": "Legendary Artifact — Equipment",
+    "Color identity": [],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "41f01ce3-0271-40d8-b099-e4758388a94d": {
+    "id": "41f01ce3-0271-40d8-b099-e4758388a94d",
+    "isToken": true,
+    "face": {
+      "front": {
         "name": "Clone",
         "type": "Token",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Token",
-        "Color identity": [],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/528042.jpg?t=2026-08-11-08:49:05",
+        "isHorizontal": false
+      }
     },
-    "f59dde49-edd5-40b0-b5b6-f41f9d2a2412": {
-        "id": "f59dde49-edd5-40b0-b5b6-f41f9d2a2412",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Naboo Guard",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/528075.jpg?t=2026-08-11-08:49:27",
-                "isHorizontal": false
-            }
-        },
+    "name": "Clone",
+    "type": "Token",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Token",
+    "Color identity": [],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "f59dde49-edd5-40b0-b5b6-f41f9d2a2412": {
+    "id": "f59dde49-edd5-40b0-b5b6-f41f9d2a2412",
+    "isToken": true,
+    "face": {
+      "front": {
         "name": "Naboo Guard",
         "type": "Token",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Token",
-        "Color identity": [],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/528075.jpg?t=2026-08-11-08:49:27",
+        "isHorizontal": false
+      }
     },
-    "ffbd0c2d-8637-45b7-b672-a5650153d64b": {
-        "id": "ffbd0c2d-8637-45b7-b672-a5650153d64b",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "The Dark Side",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526776.jpg?t=2026-07-12-11:35:56",
-                "isHorizontal": false
-            }
-        },
+    "name": "Naboo Guard",
+    "type": "Token",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Token",
+    "Color identity": [],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "ffbd0c2d-8637-45b7-b672-a5650153d64b": {
+    "id": "ffbd0c2d-8637-45b7-b672-a5650153d64b",
+    "isToken": true,
+    "face": {
+      "front": {
         "name": "The Dark Side",
         "type": "Token",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Token \u2014 Marker",
-        "Color identity": [],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526776.jpg?t=2026-07-12-11:35:56",
+        "isHorizontal": false
+      }
     },
-    "9f0dbf59-e440-4a4f-a4b5-90c82bfcc3fe": {
-        "id": "9f0dbf59-e440-4a4f-a4b5-90c82bfcc3fe",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "The Light Side",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526778.jpg?t=2026-07-17-20:25:34",
-                "isHorizontal": false
-            }
-        },
+    "name": "The Dark Side",
+    "type": "Token",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Token — Marker",
+    "Color identity": [],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "9f0dbf59-e440-4a4f-a4b5-90c82bfcc3fe": {
+    "id": "9f0dbf59-e440-4a4f-a4b5-90c82bfcc3fe",
+    "isToken": true,
+    "face": {
+      "front": {
         "name": "The Light Side",
         "type": "Token",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Token \u2014 Marker",
-        "Color identity": [],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
+        "image": "https://www.mtgnexus.com/img/ccc/ren/40188/526778.jpg?t=2026-07-17-20:25:34",
+        "isHorizontal": false
+      }
     },
-    "57dac176-5ede-4364-a3d9-7981b14a4f84": {
-        "id": "57dac176-5ede-4364-a3d9-7981b14a4f84",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Battledroid",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://www.mtgnexus.com/img/ccc/ren/39744/528065.jpg?t=2026-08-11-08:49:55",
-                "isHorizontal": false
-            }
-        },
+    "name": "The Light Side",
+    "type": "Token",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Token — Marker",
+    "Color identity": [],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  },
+  "57dac176-5ede-4364-a3d9-7981b14a4f84": {
+    "id": "57dac176-5ede-4364-a3d9-7981b14a4f84",
+    "isToken": true,
+    "face": {
+      "front": {
         "name": "Battledroid",
         "type": "Token",
         "cost": 0,
-        "Colors": [],
-        "Card type": "Token",
-        "Color identity": [],
-        "set": "LOS",
-        "isHorizontal": false,
-        "_legal": ""
-    }
+        "image": "https://www.mtgnexus.com/img/ccc/ren/39744/528065.jpg?t=2026-08-11-08:49:55",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battledroid",
+    "type": "Token",
+    "cost": 0,
+    "Colors": [],
+    "Card type": "Token",
+    "Color identity": [],
+    "set": "LOS",
+    "isHorizontal": false,
+    "_legal": ""
+  }
 }
